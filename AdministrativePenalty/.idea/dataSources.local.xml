@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="AdministrativePun@127.0.0.7" uuid="54b5ded3-2abb-4ede-8521-0c32fffc207a">
+      <database-info product="Microsoft SQL Server" version="10.50.1600" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 6.4 for SQL Server" driver-version="6.4.0.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <domain-auth>true</domain-auth>
+      <introspection-schemas>AdministrativePun:dbo</introspection-schemas>
+    </data-source>
+    <data-source name="AdministrativePunNingXia@127.0.0.1" uuid="cd5630e4-8b2b-4a94-9ff6-303a7c4dc3d9">
+      <database-info product="Microsoft SQL Server" version="10.50.1600" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 6.4 for SQL Server" driver-version="6.4.0.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <introspection-schemas>9.1EnvironmentData:|AdministrativePunNingXia:dbo</introspection-schemas>
+    </data-source>
+    <data-source name="cnlaw2.0@192.168.31.124" uuid="34cc671f-84b7-4ab0-8b75-f1be3dcf5b52">
+      <database-info product="Microsoft SQL Server" version="10.50.4000" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 6.4 for SQL Server" driver-version="6.4.0.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <introspection-schemas>cnlaw2.0:dbo</introspection-schemas>
+    </data-source>
+    <data-source name="9.1EnvironmentData@127.0.0.1" uuid="d2a876f8-3f23-434b-bca2-8cb7fb4b7f79">
+      <database-info product="Microsoft SQL Server" version="10.50.1600" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 6.4 for SQL Server" driver-version="6.4.0.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <domain-auth>true</domain-auth>
+      <introspection-schemas>9.1EnvironmentData:dbo</introspection-schemas>
+    </data-source>
+    <data-source name="卫计局@127.0.0.1" uuid="676a2301-ba52-4c93-8e5c-bfa921aab16f">
+      <database-info product="Microsoft SQL Server" version="10.50.1600" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 6.4 for SQL Server" driver-version="6.4.0.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <domain-auth>true</domain-auth>
+      <introspection-schemas>卫计局:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>

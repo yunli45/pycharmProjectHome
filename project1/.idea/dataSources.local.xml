@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="行政案例数据库@127.0.0.1" uuid="1744f113-263e-4600-bd1d-353f50268d70">
+      <database-info product="Microsoft SQL Server" version="10.50.1600" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.0 for SQL Server" driver-version="7.0.0.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <domain-auth>true</domain-auth>
+      <introspection-schemas>行政案例数据库:dbo</introspection-schemas>
+    </data-source>
+    <data-source name="cnlaw2.0@192.168.31.124" uuid="bb0d9253-b048-4c53-a9aa-1e4560d165d6">
+      <database-info product="Microsoft SQL Server" version="10.50.4000" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.0 for SQL Server" driver-version="7.0.0.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <introspection-schemas>cnlaw2.0:dbo</introspection-schemas>
+    </data-source>
+    <data-source name="广汉市公共法律服务网络平台@192.168.31.178" uuid="4ebed3ce-8f01-4f87-b4f2-29f6fb2f4a05">
+      <database-info product="Microsoft SQL Server" version="10.50.1600" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.0 for SQL Server" driver-version="7.0.0.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>sa</user-name>
+      <introspection-schemas>广汉市公共法律服务网络平台:dbo</introspection-schemas>
+    </data-source>
+    <data-source name="GH_PublicLawSerivceDB@192" uuid="eda8a488-10f1-486c-9c47-a1252f45b0ae">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <domain-auth>true</domain-auth>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="GH_PublicLawSerivceDB@192.168.31.178" uuid="3ff956ae-4b10-46b8-90dc-c4ac6c0563a0">
+      <database-info product="Microsoft SQL Server" version="10.50.1600" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.0 for SQL Server" driver-version="7.0.0.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>ws</user-name>
+      <introspection-schemas>GH_PublicLawSerivceDB:dbo</introspection-schemas>
+    </data-source>
+  </component>
+</project>

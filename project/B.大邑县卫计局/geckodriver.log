@@ -1,0 +1,231 @@
+1539142045454	geckodriver	INFO	geckodriver 0.20.1
+1539142045455	geckodriver	INFO	Listening on 127.0.0.1:52735
+1539142046001	mozrunner::runner	INFO	Running command: "E:\\基本软件\\火狐\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile.P8932xTCzoOv"
+1539142047715	Marionette	INFO	Listening on port 52740
+1539142048167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539142048193	Marionette	DEBUG	[6442450945] Frame script loaded
+1539142048194	Marionette	DEBUG	[6442450945] Frame script registered
+1539142048207	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539142048321	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml, line 1: unreachable code after return statement
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value VERTEX_ATTRIB_ARRAY_DIVISOR
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value MIN
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value MAX
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGBA16F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGB16F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value UNSIGNED_NORMALIZED
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value SRGB
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value SRGB_ALPHA
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value SRGB8_ALPHA8
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value FRAMEBUFFER_ATTACHMENT_COLOR_ENCODING
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x84fe>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8d61>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGBA32F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGB32F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value UNSIGNED_NORMALIZED
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGB_S3TC_DXT1_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGBA_S3TC_DXT1_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGBA_S3TC_DXT3_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGBA_S3TC_DXT5_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4c>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4d>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4e>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4f>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value UNSIGNED_INT_24_8
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT0
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT1
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT2
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT3
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT4
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT5
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+1539142049306	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml
+1539142049354	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml
+1539142049384	Marionette	INFO	Stopped listening on port 52740
+1539142049412	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/%E5%9F%BA%E6%9C%AC%E8%BD%AF%E4%BB%B6/%E7%81%AB%E7%8B%90/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/%E5%9F%BA%E6%9C%AC%E8%BD%AF%E4%BB%B6/%E7%81%AB%E7%8B%90/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 11524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13456, Chrome_ChildThread] WARNING: pipe [Parent 11524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13628, Chrome_ChildThread] WARNI[Parent 11524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 133JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539142060414	geckodriver	INFO	geckodriver 0.20.1
+1539142060430	geckodriver	INFO	Listening on 127.0.0.1:52770
+1539142060989	mozrunner::runner	INFO	Running command: "E:\\基本软件\\火狐\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile.wDsNClfd9dK7"
+1539142062613	Marionette	INFO	Listening on port 52775
+1539142063160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539142063185	Marionette	DEBUG	[6442450945] Frame script loaded
+1539142063186	Marionette	DEBUG	[6442450945] Frame script registered
+1539142063200	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539142063341	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml, line 1: unreachable code after return statement
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value VERTEX_ATTRIB_ARRAY_DIVISOR
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value MIN
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value MAX
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGBA16F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGB16F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value UNSIGNED_NORMALIZED
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value SRGB
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value SRGB_ALPHA
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value SRGB8_ALPHA8
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value FRAMEBUFFER_ATTACHMENT_COLOR_ENCODING
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x84fe>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8d61>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGBA32F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGB32F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value UNSIGNED_NORMALIZED
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGB_S3TC_DXT1_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGBA_S3TC_DXT1_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGBA_S3TC_DXT3_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGBA_S3TC_DXT5_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4c>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4d>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4e>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4f>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value UNSIGNED_INT_24_8
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT0
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT1
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT2
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT3
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT4
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT5
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+1539142064423	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml
+1539142064466	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml
+1539142064500	Marionette	INFO	Stopped listening on port 52775
+1539142064526	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/%E5%9F%BA%E6%9C%AC%E8%BD%AF%E4%BB%B6/%E7%81%AB%E7%8B%90/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/%E5%9F%BA%E6%9C%AC%E8%BD%AF%E4%BB%B6/%E7%81%AB%E7%8B%90/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+flushAllWindowsAsync@SessionStore.jsm:1697:7
+ssi_onQuitApplicationGranted/<@SessionStore.jsm:1624:27
+trigger@AsyncShutdown.jsm:710:23
+_wait@AsyncShutdown.jsm:857:7
+wait@AsyncShutdown.jsm:841:28
+observe@AsyncShutdown.jsm:524:17
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 1568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4220,[Child 1640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1640, Chrome_ChildThread[Parent 1568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3428, CJavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539142319295	geckodriver	INFO	geckodriver 0.20.1
+1539142319311	geckodriver	INFO	Listening on 127.0.0.1:53161
+1539142319858	mozrunner::runner	INFO	Running command: "E:\\基本软件\\火狐\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ASUS\\AppData\\Local\\Temp\\rust_mozprofile.QSen47pDTE3Z"
+1539142321511	Marionette	INFO	Listening on port 53166
+1539142322079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539142322103	Marionette	DEBUG	[6442450945] Frame script loaded
+1539142322105	Marionette	DEBUG	[6442450945] Frame script registered
+1539142322116	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539142322228	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml, line 1: unreachable code after return statement
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: unreachable code after return statement
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value VERTEX_ATTRIB_ARRAY_DIVISOR
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value MIN
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value MAX
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGBA16F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGB16F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value UNSIGNED_NORMALIZED
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value SRGB
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value SRGB_ALPHA
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value SRGB8_ALPHA8
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value FRAMEBUFFER_ATTACHMENT_COLOR_ENCODING
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x84fe>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8d61>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGBA32F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value RGB32F
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value FRAMEBUFFER_ATTACHMENT_COMPONENT_TYPE
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value UNSIGNED_NORMALIZED
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGB_S3TC_DXT1_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGBA_S3TC_DXT1_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGBA_S3TC_DXT3_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COMPRESSED_RGBA_S3TC_DXT5_EXT
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4c>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4d>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4e>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value <enum 0x8c4f>
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value UNSIGNED_INT_24_8
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT0
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT1
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT2
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT3
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT4
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL warning: getParameter: parameter: invalid enum value COLOR_ATTACHMENT5
+JavaScript warning: http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml line 6 > eval, line 1: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+1539142322827	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml
+1539142322881	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.nhfpc.gov.cn/zwgk/jdjd/ejlist.shtml
+1539142322912	Marionette	INFO	Stopped listening on port 53166
+1539142322934	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: TypeError: setting getter-only property "_currentSearchHostname" (resource://activity-stream/lib/TopSitesFeed.jsm:86:5) JS Stack trace: uninit@TopSitesFeed.jsm:86:5
+onAction@TopSitesFeed.jsm:707:9
+_middleware/</<@Store.jsm:51:11
+Store/this[method]@Store.jsm:29:55
+uninit@Store.jsm:170:7
+uninit@ActivityStream.jsm:363:5
+uninit@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/%E5%9F%BA%E6%9C%AC%E8%BD%AF%E4%BB%B6/%E7%81%AB%E7%8B%90/browser/features/activity-stream@bootstrap.js:86:5
+shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/%E5%9F%BA%E6%9C%AC%E8%BD%AF%E4%BB%B6/%E7%81%AB%E7%8B%90/browser/features/activity-stream@bootstrap.js:194:3
+callBootstrapMethod@XPIProvider.jsm:1592:20
+_shutdown@XPIProvider.jsm:1728:12
+observe@AsyncShutdown.jsm:541:9
+GeckoDriver.prototype.quit@driver.js:3319:3
+despatch@server.js:297:20
+execute@server.js:271:11
+onPacket/<@server.js:246:15
+onPacket@server.js:245:8
+_onJSONObjectReady/<@transport.js:500:9
+[Parent 14380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3100[Child 6380, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 6380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3160, CJavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+[GPU 7132, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -1,0 +1,1757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/知识产权局更新/test.py" line="50" />
+    <bookmark url="file://$PROJECT_DIR$/H四川省卫生委员会/test.py" line="36" />
+    <bookmark url="file://$PROJECT_DIR$/环保局更新/8.“十三五”国家环境保护标准工作.py" line="336" />
+    <bookmark url="file://$PROJECT_DIR$/环保局更新/工具包/判断url前面的点返回完整的请求地址.py" line="38" />
+    <bookmark url="file://$PROJECT_DIR$/环保局更新/工具包/判断url前面的点返回完整的请求地址.py" line="44" />
+    <bookmark url="file://$PROJECT_DIR$/环保局更新/工具包/判断url前面的点返回完整的请求地址.py" line="51" />
+    <bookmark url="file://$PROJECT_DIR$/环保局更新/工具包/判断url前面的点返回完整的请求地址.py" line="30" />
+    <bookmark url="file://$PROJECT_DIR$/环保局更新/8.“十三五”国家环境保护标准工作.py" line="155" />
+    <bookmark url="file://$PROJECT_DIR$/K河北省/工具包/预处理模块.py" line="184" />
+    <bookmark url="file://$PROJECT_DIR$/K河北省/工具包/判断url前面的点返回完整的请求地址.py" line="18" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cca73dbe-dbce-4f66-b932-27f521f6540b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/project1$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1542855072552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/H四川省卫生委员会" />
+    <SUITE FILE_PATH="coverage/project1$3_.coverage" NAME="3.卫计委（图片） Coverage Results" MODIFIED="1542181393070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$36_4____.coverage" NAME="3、6.4环保局-标准文本- 核辐射与电磁辐射环境保护标准-相关监测方法标准 Coverage Results" MODIFIED="1540093120078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/6" />
+    <SUITE FILE_PATH="coverage/project1$32_1__.coverage" NAME="3、2.1环保局-标准文本-大气环境保护标准 Coverage Results" MODIFIED="1540088797372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/2" />
+    <SUITE FILE_PATH="coverage/project1$16_.coverage" NAME="16.信用中国（辽宁） Coverage Results" MODIFIED="1543293332753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$pdf.coverage" NAME="pdf Coverage Results" MODIFIED="1540108126177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$findall.coverage" NAME="让字符串支持findall Coverage Results" MODIFIED="1539154328726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$4.coverage" NAME="4、标准修改与解释（独立完整的） Coverage Results" MODIFIED="1547977811178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$9_11.coverage" NAME="9.1全市各级政府部门（大连市——1） Coverage Results" MODIFIED="1542528410971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$32_4__.coverage" NAME="3、2.4环保局-标准文本-大气移动源污染物排放标准 Coverage Results" MODIFIED="1540089020633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/2" />
+    <SUITE FILE_PATH="coverage/project1$6_16__.coverage" NAME="6.16中华人民共和国国家卫生健康委员会-职业健康司-政策文件 Coverage Results" MODIFIED="1539307782893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$39_8____.coverage" NAME="3、9.8环保局-标准文本- 其他环境保护标准-环境保护信息标准 Coverage Results" MODIFIED="1540096287787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/9" />
+    <SUITE FILE_PATH="coverage/project1$TEST1.coverage" NAME="TEST1 Coverage Results" MODIFIED="1539748914053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/工具包" />
+    <SUITE FILE_PATH="coverage/project1$36_1___.coverage" NAME="3、6.1环保局-标准文本- 核辐射与电磁辐射环境保护标准 Coverage Results" MODIFIED="1540092897535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/6" />
+    <SUITE FILE_PATH="coverage/project1$tssfs.coverage" NAME="tssfs Coverage Results" MODIFIED="1539154217391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1542706062358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权局更新" />
+    <SUITE FILE_PATH="coverage/project1$2____post.coverage" NAME="2.西安市-安全生产 -全是图片（post） Coverage Results" MODIFIED="1543743045755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/I陕西省" />
+    <SUITE FILE_PATH="coverage/project1$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1542008751500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局数据校正/工具包" />
+    <SUITE FILE_PATH="coverage/project1$6_13__.coverage" NAME="6.13中华人民共和国国家卫生健康委员会-食品安全标准与检测评估司-政策文件 Coverage Results" MODIFIED="1539275163021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$6_10__.coverage" NAME="6.10中华人民共和国国家卫生健康委员会-科技教育司-政策文件 Coverage Results" MODIFIED="1539268949523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$9_21.coverage" NAME="9.2全市各级政府部门（大连市——1） Coverage Results" MODIFIED="1542528398790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$34_2____.coverage" NAME="3、4.2环保局-标准文本- 土壤环境保护标准-土壤环境质量标准 Coverage Results" MODIFIED="1540091243545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/4" />
+    <SUITE FILE_PATH="coverage/project1$15_.coverage" NAME="15.信用中国 Coverage Results" MODIFIED="1542622793230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1550133515073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K河北省/工具包" />
+    <SUITE FILE_PATH="coverage/project1$6_20__.coverage" NAME="6.20中华人民共和国国家卫生健康委员会-机关党委-政策文件 Coverage Results" MODIFIED="1539328637489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$dfsdfs.coverage" NAME="dfsdfs Coverage Results" MODIFIED="1539152193449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$31_2__.coverage" NAME="3、1.2环保局-标准文本-水环境质量标准 Coverage Results" MODIFIED="1540029078970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡" />
+    <SUITE FILE_PATH="coverage/project1$pdf4.coverage" NAME="pdf4 Coverage Results" MODIFIED="1540458697565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$35_3____.coverage" NAME="3、5.3环保局-标准文本- 固体废物与化学品环境污染控制标准-危险废物鉴别方法标准 Coverage Results" MODIFIED="1540092462257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/5" />
+    <SUITE FILE_PATH="coverage/project1$tewst.coverage" NAME="tewst Coverage Results" MODIFIED="1539187368411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$6_19__.coverage" NAME="6.19中华人民共和国国家卫生健康委员会-国际合作司-政策文件 Coverage Results" MODIFIED="1539328539563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$35_2____.coverage" NAME="3、5.2环保局-标准文本- 固体废物与化学品环境污染控制标准-固体废物污染控制标准 Coverage Results" MODIFIED="1540092460470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/5" />
+    <SUITE FILE_PATH="coverage/project1$__.coverage" NAME="中华人民共和国国家卫生健康委员会-热点栏目-解读 Coverage Results" MODIFIED="1539215191855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$32_5__.coverage" NAME="3、2.5环保局-标准文本-相关标准 Coverage Results" MODIFIED="1540090068419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/2" />
+    <SUITE FILE_PATH="coverage/project1$10_.coverage" NAME="10.丹东市 Coverage Results" MODIFIED="1542616539270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$DBHelper.coverage" NAME="DBHelper Coverage Results" MODIFIED="1543307404265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+    <SUITE FILE_PATH="coverage/project1$33_1__.coverage" NAME="3、3.1环保局-标准文本-环境噪声与振动标准 Coverage Results" MODIFIED="1540090337644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/3" />
+    <SUITE FILE_PATH="coverage/project1$39_9____.coverage" NAME="3、9.9环保局-标准文本- 其他环境保护标准-其他 Coverage Results" MODIFIED="1540096352701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/9" />
+    <SUITE FILE_PATH="coverage/project1$3.coverage" NAME="3、标准文本（独立的完整的） Coverage Results" MODIFIED="1547979035458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$ip.coverage" NAME="代理ip Coverage Results" MODIFIED="1539077698089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$34_1___.coverage" NAME="3、4.1环保局-标准文本- 土壤环境保护标准 Coverage Results" MODIFIED="1540091180892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/4" />
+    <SUITE FILE_PATH="coverage/project1$9_1.coverage" NAME="9.全市各级政府部门（大连市——1） Coverage Results" MODIFIED="1542600341895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$6_14____.coverage" NAME="6.14(特殊)中华人民共和国国家卫生健康委员会-职业健康司-政策文件 Coverage Results" MODIFIED="1539313975118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$4getpost.coverage" NAME="4、政府信息公开栏（get代替post） Coverage Results" MODIFIED="1550110134095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K河北省" />
+    <SUITE FILE_PATH="coverage/project1$excel.coverage" NAME="对比excel中和本地文件的名字 Coverage Results" MODIFIED="1541003866535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/卫计局" />
+    <SUITE FILE_PATH="coverage/project1$2_2.coverage" NAME="2.银监局2 Coverage Results" MODIFIED="1541990273981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$_.coverage" NAME="【完整版-附件下载还有问题】预处理模块 Coverage Results" MODIFIED="1545875804164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+    <SUITE FILE_PATH="coverage/project1$71_post.coverage" NAME="7、河北省廊坊市（1 post） Coverage Results" MODIFIED="1551685469545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K河北省" />
+    <SUITE FILE_PATH="coverage/project1$dsfasd.coverage" NAME="dsfasd Coverage Results" MODIFIED="1539133165426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$4_.coverage" NAME="4.标准征求意见 Coverage Results" MODIFIED="1545376586295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$pdf2.coverage" NAME="pdf2 Coverage Results" MODIFIED="1540456764635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1543827057645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+    <SUITE FILE_PATH="coverage/project1$39_7____.coverage" NAME="3、9.7环保局-标准文本- 其他环境保护标准-环境保护工程技术规范 Coverage Results" MODIFIED="1540096238732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/9" />
+    <SUITE FILE_PATH="coverage/project1$33_2______.coverage" NAME="3、3.2环保局-标准文本- 环境噪声与振动标准 - 声环境质量标准 Coverage Results" MODIFIED="1540090339410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/3" />
+    <SUITE FILE_PATH="coverage/project1$39_5____.coverage" NAME="3、9.5环保局-标准文本- 其他环境保护标准-环境标志产品标准 Coverage Results" MODIFIED="1540095053686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/9" />
+    <SUITE FILE_PATH="coverage/project1$1_.coverage" NAME="1. Coverage Results" MODIFIED="1544063024178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/H四川省卫生委员会" />
+    <SUITE FILE_PATH="coverage/project1$5.coverage" NAME="5标准管理 Coverage Results" MODIFIED="1547979136473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$code.coverage" NAME="code Coverage Results" MODIFIED="1540450785602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytesser3-master/pytesser3" />
+    <SUITE FILE_PATH="coverage/project1$39_3____.coverage" NAME="3、9.3环保局-标准文本- 其他环境保护标准-环境影响评价技术导则 Coverage Results" MODIFIED="1540094430190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/9" />
+    <SUITE FILE_PATH="coverage/project1$selenium1.coverage" NAME="selenium1 Coverage Results" MODIFIED="1539230038794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$7.coverage" NAME="7国家能源局东北监管局 Coverage Results" MODIFIED="1542339880746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$1_get.coverage" NAME="1.保监局（get） Coverage Results" MODIFIED="1544005008266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/J湖南省" />
+    <SUITE FILE_PATH="coverage/project1$1.coverage" NAME="1、银监局 Coverage Results" MODIFIED="1545986676948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K河北省" />
+    <SUITE FILE_PATH="coverage/project1$url__2_.coverage" NAME="判断url前面的点返回完整的请求地址 (2) Coverage Results" MODIFIED="1545015823325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/H四川省卫生委员会/工具包" />
+    <SUITE FILE_PATH="coverage/project1$37_1___.coverage" NAME="3、7.1环保局-标准文本- 生态环境保护标准 Coverage Results" MODIFIED="1540093763301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/7、8" />
+    <SUITE FILE_PATH="coverage/project1$python3pdf1.coverage" NAME="python3读取pdf1 Coverage Results" MODIFIED="1539935978336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/工具包" />
+    <SUITE FILE_PATH="coverage/project1$_t_.coverage" NAME="行政案例预处理(t统计字数) Coverage Results" MODIFIED="1542599731072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G_1行政案例处理" />
+    <SUITE FILE_PATH="coverage/project1$32__.coverage" NAME="3、2环保局-标准文本-大气环境保护标准 Coverage Results" MODIFIED="1539784022389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部" />
+    <SUITE FILE_PATH="coverage/project1$a.coverage" NAME="监测a标签会出现的所有情况 Coverage Results" MODIFIED="1541495876264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局数据校正/工具包" />
+    <SUITE FILE_PATH="coverage/project1$36_2____.coverage" NAME="3、6.2环保局-标准文本- 核辐射与电磁辐射环境保护标准-电磁辐射标准 Coverage Results" MODIFIED="1540092950302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/6" />
+    <SUITE FILE_PATH="coverage/project1$user_agent.coverage" NAME="验证user-agent Coverage Results" MODIFIED="1539152653601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$_post.coverage" NAME="信用中国-陕西（全是post） Coverage Results" MODIFIED="1543888069866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/I陕西省" />
+    <SUITE FILE_PATH="coverage/project1$testq.coverage" NAME="testq Coverage Results" MODIFIED="1545644990037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$7_.coverage" NAME="7.地方环境保护标准备案 Coverage Results" MODIFIED="1547979144400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$2_1.coverage" NAME="2.1标准发布 Coverage Results" MODIFIED="1545374680313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$5_1.coverage" NAME="5.1标准管理 Coverage Results" MODIFIED="1545376081637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$6_9__.coverage" NAME="6.9中华人民共和国国家卫生健康委员会-卫生应急办公室-政策文件 Coverage Results" MODIFIED="1539264308020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$url.coverage" NAME="判断url前面的点返回完整的请求地址 Coverage Results" MODIFIED="1539314568477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$selenium.coverage" NAME="selenium Coverage Results" MODIFIED="1539222908970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$6_13____.coverage" NAME="6.13(附件重新下载)中华人民共和国国家卫生健康委员会-食品安全标准与检测评估司-政策文件 Coverage Results" MODIFIED="1539337231516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$5_post.coverage" NAME="5、信用湖南（格式统一 post） Coverage Results" MODIFIED="1550137022473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K河北省" />
+    <SUITE FILE_PATH="coverage/project1$32_3__.coverage" NAME="3、2.3环保局-标准文本-大气固定源污染物排放标准 Coverage Results" MODIFIED="1540088944692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/2" />
+    <SUITE FILE_PATH="coverage/project1$tesseract.coverage" NAME="tesseract Coverage Results" MODIFIED="1540431366718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python3.6.5/Lib/site-packages/pyocr" />
+    <SUITE FILE_PATH="coverage/project1$31_3__.coverage" NAME="3、1.3环保局-标准文本-水污染物排放标准 Coverage Results" MODIFIED="1540029091673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡" />
+    <SUITE FILE_PATH="coverage/project1$t.coverage" NAME="特色t Coverage Results" MODIFIED="1541477199298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局数据校正" />
+    <SUITE FILE_PATH="coverage/project1$6_.coverage" NAME="6、所有区县-运输行业 Coverage Results" MODIFIED="1544759093888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/J湖南省" />
+    <SUITE FILE_PATH="coverage/project1$py_test_in_TEST_py.coverage" NAME="py.test in TEST.py Coverage Results" MODIFIED="1540448772185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$4_excel.coverage" NAME="4.人民银行沈阳分行（excel） Coverage Results" MODIFIED="1542188490247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$1_1_.coverage" NAME="1.1 政策解读 Coverage Results" MODIFIED="1545385432550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$get__post.coverage" NAME="get 、 post请求测试 Coverage Results" MODIFIED="1550197218100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K河北省/工具包" />
+    <SUITE FILE_PATH="coverage/project1$35_4____.coverage" NAME="3、5.4环保局-标准文本- 固体废物与化学品环境污染控制标准-其他相关标准 Coverage Results" MODIFIED="1540092469191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/5" />
+    <SUITE FILE_PATH="coverage/project1$.coverage" NAME="附件下载程序 Coverage Results" MODIFIED="1551685863937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K河北省/工具包" />
+    <SUITE FILE_PATH="coverage/project1$tst.coverage" NAME="tst Coverage Results" MODIFIED="1540891218834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/卫计局" />
+    <SUITE FILE_PATH="coverage/project1$fas.coverage" NAME="fas Coverage Results" MODIFIED="1539188974378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$3post.coverage" NAME="3、邮政局（post） Coverage Results" MODIFIED="1550025794647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K河北省" />
+    <SUITE FILE_PATH="coverage/project1$12_.coverage" NAME="12.盘锦市 Coverage Results" MODIFIED="1542618810154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$32_2__.coverage" NAME="3、2.2环保局-标准文本-大气环境质量标准 Coverage Results" MODIFIED="1540088871101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/2" />
+    <SUITE FILE_PATH="coverage/project1$6_11__.coverage" NAME="6.11中华人民共和国国家卫生健康委员会-综合监督局-政策文件 Coverage Results" MODIFIED="1539274297952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$35___.coverage" NAME="3、5环保局-标准文本- 固体废物与化学品环境污染控制标准 Coverage Results" MODIFIED="1540092777966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/5" />
+    <SUITE FILE_PATH="coverage/project1$36___.coverage" NAME="3、6环保局-标准文本- 核辐射与电磁辐射环境保护标准 Coverage Results" MODIFIED="1539787697333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部" />
+    <SUITE FILE_PATH="coverage/project1$1__.coverage" NAME="1. 政策解读（独立完整的） Coverage Results" MODIFIED="1547977659296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$36_3____.coverage" NAME="3、6.3环保局-标准文本- 核辐射与电磁辐射环境保护标准-放射性环境标准 Coverage Results" MODIFIED="1540093118873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/6" />
+    <SUITE FILE_PATH="coverage/project1$39_1___.coverage" NAME="3、9.1环保局-标准文本- 其他环境保护标准 Coverage Results" MODIFIED="1540094952316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/9" />
+    <SUITE FILE_PATH="coverage/project1$session1.coverage" NAME="添加session访问1 Coverage Results" MODIFIED="1539159628653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$python3pdf.coverage" NAME="python3读取pdf Coverage Results" MODIFIED="1539932738540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/工具包" />
+    <SUITE FILE_PATH="coverage/project1$resource.coverage" NAME="resource Coverage Results" MODIFIED="1540371800132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python3.6.5/Lib/site-packages/wand" />
+    <SUITE FILE_PATH="coverage/project1$14_.coverage" NAME="14.葫芦岛市 Coverage Results" MODIFIED="1542619892730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$6_18__.coverage" NAME="6.18中华人民共和国国家卫生健康委员会-宣传司-政策文件 Coverage Results" MODIFIED="1539308167822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$test.coverage" NAME="test Coverage Results" MODIFIED="1551772412333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K河北省" />
+    <SUITE FILE_PATH="coverage/project1$38___.coverage" NAME="3、8环保局-标准文本- 环境影响评价标准 Coverage Results" MODIFIED="1540093764313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/7、8" />
+    <SUITE FILE_PATH="coverage/project1$6_12new_.coverage" NAME="6.12new中华人民共和国国家卫生健康委员会-药物政策与基本药物制度司政策文件 Coverage Results" MODIFIED="1539328367720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$4__.coverage" NAME="4.浏阳市-住建 Coverage Results" MODIFIED="1544674196578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/J湖南省" />
+    <SUITE FILE_PATH="coverage/project1$6_12__.coverage" NAME="6.12中华人民共和国国家卫生健康委员会-药物政策与基本药物制度司-政策文件 Coverage Results" MODIFIED="1539275161481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$hhh.coverage" NAME="hhh Coverage Results" MODIFIED="1539144559246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$5_.coverage" NAME="5、浏阳市-林业局 Coverage Results" MODIFIED="1544691594562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/J湖南省" />
+    <SUITE FILE_PATH="coverage/project1$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1542621398535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省/工具包" />
+    <SUITE FILE_PATH="coverage/project1$36_5____.coverage" NAME="3、6.5环保局-标准文本- 核辐射与电磁辐射环境保护标准-相关标准 Coverage Results" MODIFIED="1540093121661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/6" />
+    <SUITE FILE_PATH="coverage/project1$2_.coverage" NAME="2.国土厅（矿产典型案例） Coverage Results" MODIFIED="1542081365761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$pdf3.coverage" NAME="pdf3 Coverage Results" MODIFIED="1540459685506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$py3264.coverage" NAME="查看py是32位还是64位 Coverage Results" MODIFIED="1540281725877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$url__1_.coverage" NAME="判断url前面的点返回完整的请求地址 (1) Coverage Results" MODIFIED="1551682627213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/K河北省/工具包" />
+    <SUITE FILE_PATH="coverage/project1$2get.coverage" NAME="2浏阳市—市监（get） Coverage Results" MODIFIED="1544506514701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/J湖南省" />
+    <SUITE FILE_PATH="coverage/project1$py_test_for_TEST_test.coverage" NAME="py.test for TEST.test Coverage Results" MODIFIED="1540448768220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$31__.coverage" NAME="3、1环保局-标准文本-水环境保护标准 Coverage Results" MODIFIED="1540029067269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡" />
+    <SUITE FILE_PATH="coverage/project1$3get.coverage" NAME="3、银监局（get） Coverage Results" MODIFIED="1544668877513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/J湖南省" />
+    <SUITE FILE_PATH="coverage/project1$11_.coverage" NAME="11.锦州市 Coverage Results" MODIFIED="1542617883459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/G辽宁省" />
+    <SUITE FILE_PATH="coverage/project1$3__post.coverage" NAME="3.信用中国-陕西（全是post） Coverage Results" MODIFIED="1543802876910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/I陕西省" />
+    <SUITE FILE_PATH="coverage/project1$__1_.coverage" NAME="附件下载程序 (1) Coverage Results" MODIFIED="1552872029636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权局更新" />
+    <SUITE FILE_PATH="coverage/project1$requestscookies.coverage" NAME="在requests在网络请求中添加cookies参数 Coverage Results" MODIFIED="1539312127632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/project1$python.coverage" NAME="利用python的内置函数统计某个单词出现的次数 Coverage Results" MODIFIED="1542010591767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局数据校正/工具包" />
+    <SUITE FILE_PATH="coverage/project1$pdf1.coverage" NAME="pdf1 Coverage Results" MODIFIED="1540451802128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$2_5_6_7_8.coverage" NAME="2（标准发布）.5（标准征求意见）.6（标准管理）.7（地方环境保护标准备案）.8合并（“十三五”国家环境保护标准工作）（独立完整的） Coverage Results" MODIFIED="1547978895720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+    <SUITE FILE_PATH="coverage/project1$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1542785899776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/H四川省卫生委员会" />
+    <SUITE FILE_PATH="coverage/project1$39_6____.coverage" NAME="3、9.6环保局-标准文本- 其他环境保护标准-环保产品技术要求 Coverage Results" MODIFIED="1540095258006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/9" />
+    <SUITE FILE_PATH="coverage/project1$39_4____.coverage" NAME="3、9.4环保局-标准文本- 其他环境保护标准-环保验收技术规范 Coverage Results" MODIFIED="1540095685944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/9" />
+    <SUITE FILE_PATH="coverage/project1$310___.coverage" NAME="3、10环保局-标准文本- 污染防治技术政策 Coverage Results" MODIFIED="1540096952920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/10-12" />
+    <SUITE FILE_PATH="coverage/project1$312___.coverage" NAME="3、12环保局-标准文本- 环境监测方法标准及监测规范 Coverage Results" MODIFIED="1540096744811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/10-12" />
+    <SUITE FILE_PATH="coverage/project1$3__.coverage" NAME="3、中华人民共和国国家卫生健康委员会-办公厅-政策文件 Coverage Results" MODIFIED="1539255302544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$311___.coverage" NAME="3、11环保局-标准文本- 可行技术指南 Coverage Results" MODIFIED="1540097018671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/10-12" />
+    <SUITE FILE_PATH="coverage/project1$33_3______.coverage" NAME="3、3.3环保局-标准文本- 环境噪声与振动标准 - 环境噪声排放标准 Coverage Results" MODIFIED="1540090340807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/3" />
+    <SUITE FILE_PATH="coverage/project1$py_test_for_TEST_test1.coverage" NAME="py.test for TEST.test1 Coverage Results" MODIFIED="1540438948729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project1$6_15__.coverage" NAME="6.15中华人民共和国国家卫生健康委员会-妇幼健康司-政策文件 Coverage Results" MODIFIED="1539276376328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/project1$39_2____.coverage" NAME="3、9.2环保局-标准文本- 其他环境保护标准-清洁生产标准 Coverage Results" MODIFIED="1540094009183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国环境保护部/冲泡/9" />
+    <SUITE FILE_PATH="coverage/project1$8_.coverage" NAME="8.“十三五”国家环境保护标准工作 Coverage Results" MODIFIED="1547979168531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/环保局更新" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cnlaw2.0@192.168.31.124" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="行政案例数据库@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>punishmentDetail.do?id=C95E1B06D3A1C01B5E5AE35AEFCFE52713ED5E3F468F9312DAF8B477ACDC75CD89F00C01706C898E</find>
+      <find>C95E1B06D3A1C01B5E5AE35AEFCFE52713ED5E3F468F9312DAF8B477ACDC75CD89F00C01706C898E</find>
+      <find>punishmentDetail.do?id=E064DA3C37E44B87CFE256E70DC53BDB8E8C4E5C5D6ECA9D263148A3B8780B85</find>
+      <find>['&quot;CF$E064DA3C37E44B87CFE256E70DC53BDB8E8C4E5C5D6ECA9D263148A3B8780B85$沅陵县交通建设投资有限公司违规挪用扶贫专项资金$省财政厅$2019-01-07$2019-01-07&quot;,&quot;CF$E064DA3C37E44B87CFE256E70DC53BDBAC828CABB1ED78C438C0E5BEF4119FF3$长沙江诚财务咨询有限公司会计凭证遗失$省财政厅$2019-01-07$2019-01-07&quot;,&quot;CF$AE6F114D4E4CC5A7CEDB0BFF3F2A6FE2B77BB81ADB7C974FCB536CF6709D7122$韶山海关关于湘潭汉瑞得家庭用品有限公司海关注册信息超期未变更违规案的行政处罚决定$长沙海关$2019-01-04$2019-01-04&quot;,&quot;CF$E064DA3C37E44B87CFE256E70DC53BDB79027941B8131A675D0F7517BD2389B6$洞口县水利局违规挪用扶贫专项资金$省财政厅$2019-01-04$2019-01-04&quot;,&quot;CF$EEF147F9F2456D9187E9337A9348063366432485204599F4879D5C3D0A6F416A888B5B34FD1CEEAC$经营超过保质期食品案$永州市蓝山县县市场和质量监督管理局$2018/12/27$2018/12/27&quot;,&quot;CF$F6DC4EACC2DB2554F0FD8AA0758992C385522097451385CD410A77A49E600C9E6BC5158D3D909789$未取得食品小作坊许可从事食品生产加工活动$永州市蓝山县县市场和质量监督管理局$2018/12/27$2018/12/27&quot;,&quot;CF$177E6153FCE4F2DCCF2526B5BDB2D6CACB857F8C653B72FCEBE2D3FB41376B0A2717CE48DAA37555$经营超过保质期食品案$永州市蓝山县县市场和质量监督管理局$2018/12/27$2018/12/27&quot;,&quot;CF$728E1C8743FAFBBDA15D89BB2658EDF0755C0294872D84895D5F6EB713DCBBD510DF09167E9555F2$黎晓旭涉嫌实施驾驶中型以上载客载货汽车、校车、危险物品运输车辆以外的机动车行驶超过规定时速70%以上90%(含)以下的违法行为案$永州市宁远县县公安局$2018/12/26$2018/12/26&quot;,&quot;CF$7B057358634AB4D5424CF670E362C225D2A18630BB6990575FCBE815755DA8C270C1EF7C791C1F19$民康医院$永州市江华县县卫计委$2018/12/19$2018/12/19&quot;,&quot;CF$B625BD1530AD9F8EBB3AD38B92268A36E99A958BAD340DE0ABB26CEAD96ECC20B81AD59E08804FE0$刘建无证驾驶$永州市祁阳县县公安局$2018/12/18$2018/12/18&quot;,']</find>
+      <find>E064DA3C37E44B87CFE256E70DC53BDBAC828CABB1ED78C438C0E5BEF4119FF3</find>
+      <find>release_time</find>
+      <find>&quot;CF$E064DA3C37E44B87CFE256E70DC53BDB8E8C4E5C5D6ECA9D263148A3B8780B85$沅陵县交通建设投资有限公司违规挪用扶贫专项资金$省财政厅$2019-01-07$2019-01-07&quot;,&quot;CF$E064DA3C37E44B87CFE256E70DC53BDBAC828CABB1ED78C438C0E5BEF4119FF3$长沙江诚财务咨询有限公司会计凭证遗失$省财政厅$2019-01-07$2019-01-07&quot;,&quot;CF$AE6F114D4E4CC5A7CEDB0BFF3F2A6FE2B77BB81ADB7C974FCB536CF6709D7122$韶山海关关于湘潭汉瑞得家庭用品有限公司海关注册信息超期未变更违规案的行政处罚决定$长沙海关$2019-01-04$2019-01-04&quot;,&quot;CF$E064DA3C37E44B87CFE256E70DC53BDB79027941B8131A675D0F7517BD2389B6$洞口县水利局违规挪用扶贫专项资金$省财政厅$2019-01-04$2019-01-04&quot;,&quot;CF$EEF147F9F2456D9187E9337A9348063366432485204599F4879D5C3D0A6F416A888B5B34FD1CEEAC$经营超过保质期食品案$永州市蓝山县县市场和质量监督管理局$2018/12/27$2018/12/27&quot;,&quot;CF$F6DC4EACC2DB2554F0FD8AA0758992C385522097451385CD410A77A49E600C9E6BC5158D3D909789$未取得食品小作坊许可从事食品生产加工活动$永州市蓝山县县市场和质量监督管理局$2018/12/27$2018/12/27&quot;,&quot;CF$177E6153FCE4F2DCCF2526B5BDB2D6CACB857F8C653B72FCEBE2D3FB41376B0A2717CE48DAA37555$经营超过保质期食品案$永州市蓝山县县市场和质量监督管理局$2018/12/27$2018/12/27&quot;,&quot;CF$728E1C8743FAFBBDA15D89BB2658EDF0755C0294872D84895D5F6EB713DCBBD510DF09167E9555F2$黎晓旭涉嫌实施驾驶中型以上载客载货汽车、校车、危险物品运输车辆以外的机动车行驶超过规定时速70%以上90%(含)以下的违法行为案$永州市宁远县县公安局$2018/12/26$2018/12/26&quot;,&quot;CF$7B057358634AB4D5424CF670E362C225D2A18630BB6990575FCBE815755DA8C270C1EF7C791C1F19$民康医院$永州市江华县县卫计委$2018/12/19$2018/12/19&quot;,&quot;CF$B625BD1530AD9F8EBB3AD38B92268A36E99A958BAD340DE0ABB26CEAD96ECC20B81AD59E08804FE0$刘建无证驾驶$永州市祁阳县县公安局$2018/12/18$2018/12/18&quot;</find>
+      <find>状态码3</find>
+      <find>状态码33333</find>
+      <find>content_src</find>
+      <find>http://www.credithunan.gov.cn:30816/publicity_hn/webInfo/punishmentProxy.do?</find>
+      <find>penalty_date</find>
+      <find>沅陵县交通建设投资有限公司,在扶贫办正常列支项目管理费后，又从扶贫专项资金中提取72万元作为项目管理费,违反了《湖南省财政专项扶贫资金管理办法》（湘财农〔2017〕21号）第十三条的规定，属违规挪用扶贫专项资金</find>
+      <find>law_enforcement</find>
+      <find>参数是：</find>
+      <find>E064DA3C37E44B87CFE256E70DC53BDB8E8C4E5C5D6ECA9D263148A3B8780B85</find>
+      <find>沅陵县交通建设投资有限公司,在扶贫办正常列支项目管理费后，又从扶贫专项资金中提取72万元作为项目管理费,违反了《湖南省财政专项扶贫资金管理办法》（湘财农〔2017〕21号）第十三条的规定，属违规挪用扶贫专项资金。</find>
+      <find>&quot;# # # # # # # # # # # # # # #这是第</find>
+      <find># # # # # # # # # # # # # # #这是第：</find>
+      <find>#这是第</find>
+      <find>这是第</find>
+      <find />
+      <find>xzcf_jds</find>
+      <find>&lt;/tr&gt;&lt;tr&gt;</find>
+      <find>cont</find>
+      <find>all_a</find>
+      <find>xlsx</find>
+      <find>这篇文章有附件</find>
+      <find>save_path</find>
+      <find>page_url</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>index_url</replace>
+      <replace>ZCJD_page_data_list</replace>
+      <replace>ZCJD_page_no</replace>
+      <replace>ZCJD_time_list</replace>
+      <replace>ZCJD_ids</replace>
+      <replace>ZCJD_time</replace>
+      <replace>ZCJD_content</replace>
+      <replace>,</replace>
+      <replace>div_</replace>
+      <replace>四川省卫生委员会</replace>
+      <replace>ZSCQGZ_time_list</replace>
+      <replace>ZSCQGZ_ids</replace>
+      <replace>save_path</replace>
+      <replace>day_list</replace>
+      <replace>chinese_time</replace>
+      <replace>pwd</replace>
+      <replace>exec_query</replace>
+      <replace>get_connect</replace>
+      <replace>-</replace>
+      <replace>&gt;</replace>
+      <replace>&amp;gt;</replace>
+      <replace>ZCFGJD</replace>
+      <replace>/datafolder/行政案例数据/</replace>
+      <replace>!= []</replace>
+      <replace>content_src</replace>
+      <replace>+ &quot;\\&quot; +</replace>
+      <replace>adjunct_name</replace>
+      <replace>content_src1</replace>
+      <replace>release_date</replace>
+      <replace>&lt;/tr&gt;/n/n&lt;tr&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/环保局更新/2.4.5合并.py" />
+        <option value="$PROJECT_DIR$/环保局更新/2标准发布.py" />
+        <option value="$PROJECT_DIR$/环保局更新/7.地方环境保护标准备案.py" />
+        <option value="$PROJECT_DIR$/环保局更新/5标准管理.py" />
+        <option value="$PROJECT_DIR$/环保局更新/4.标准征求意见.py" />
+        <option value="$PROJECT_DIR$/环保局更新/1. 政策解读.py" />
+        <option value="$PROJECT_DIR$/环保局更新/工具包/提取每页链接地址、时间、标题.py" />
+        <option value="$PROJECT_DIR$/环保局更新/test.py" />
+        <option value="$PROJECT_DIR$/环保局更新/2.4.5.6.7.8合并.py" />
+        <option value="$PROJECT_DIR$/环保局更新/2.5.6.7.8合并.py" />
+        <option value="$PROJECT_DIR$/环保局更新/testq.py" />
+        <option value="$PROJECT_DIR$/环保局更新/2（标准发布）.5（标准征求意见）.6（标准管理）.7（地方环境保护标准备案）.8合并（“十三五”国家环境保护标准工作）.py" />
+        <option value="$PROJECT_DIR$/环保局更新/工具包/预处理模块.py" />
+        <option value="$PROJECT_DIR$/环保局更新/1. 政策解读（独立完整的）.py" />
+        <option value="$PROJECT_DIR$/环保局更新/2、标准发布.py" />
+        <option value="$PROJECT_DIR$/环保局更新/4、标准修改与解释（独立完整的）.py" />
+        <option value="$PROJECT_DIR$/G_1行政案例处理/工具包/【完整版-附件下载还有问题】预处理模块.py" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/提取每页链接地址、时间、标题.py" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/链接数据库.py" />
+        <option value="$PROJECT_DIR$/K河北省/1、银监局.py" />
+        <option value="$PROJECT_DIR$/K河北省/2、公安局（post）.py" />
+        <option value="$PROJECT_DIR$/Js/1.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/4ebed3ce-8f01-4f87-b4f2-29f6fb2f4a05/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/console.sql" />
+        <option value="$PROJECT_DIR$/环保局更新/2（标准发布）.5（标准征求意见）.6（标准管理）.7（地方环境保护标准备案）.8合并（“十三五”国家环境保护标准工作）（独立完整的）.py" />
+        <option value="$PROJECT_DIR$/环保局更新/3、标准文本（独立的完整的）.py" />
+        <option value="$PROJECT_DIR$/环保局更新/8.“十三五”国家环境保护标准工作.py" />
+        <option value="$PROJECT_DIR$/K河北省/3、邮政局（post）.py" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/test" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/提取信息.py" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/移动文件.py" />
+        <option value="$PROJECT_DIR$/环保局更新/工具包/附件下载程序.py" />
+        <option value="$PROJECT_DIR$/环保局更新/工具包/判断url前面的点返回完整的请求地址.py" />
+        <option value="$PROJECT_DIR$/K河北省/4、政府信息公开栏（get代替post）.py" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/test1.py" />
+        <option value="$PROJECT_DIR$/K河北省/5、信用湖南（格式统一 post）.py" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/test1" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/get 、 post请求测试.py" />
+        <option value="$PROJECT_DIR$/K河北省/6、承德市（安监局 get）.py" />
+        <option value="$PROJECT_DIR$/K河北省/词云.py" />
+        <option value="$PROJECT_DIR$/K河北省/7、河北省廊坊市（1 get）.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1744f113-263e-4600-bd1d-353f50268d70/console.sql" />
+        <option value="$PROJECT_DIR$/K河北省/test.html" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/判断url前面的点返回完整的请求地址.py" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/预处理模块.py" />
+        <option value="$PROJECT_DIR$/K河北省/jl.txt" />
+        <option value="$PROJECT_DIR$/K河北省/7、河北省廊坊市（1 post）.py" />
+        <option value="$PROJECT_DIR$/K河北省/工具包/附件下载程序.py" />
+        <option value="$PROJECT_DIR$/K河北省/test.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/bb0d9253-b048-4c53-a9aa-1e4560d165d6/console.sql" />
+        <option value="$PROJECT_DIR$/知识产权局更新/附件下载程序.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-80" />
+    <option name="y" value="220" />
+    <option name="width" value="1929" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="project1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="Image&#9;null&#9;null&#10;444&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last.edited.regexp" value="&lt;table border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; id=&quot;testUI&quot; width=&quot;663&quot;&gt;&lt;!-- 行政许可栏目遍历开始 --&gt;&lt;!-- 普通栏目遍历数据 --&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/E7F34C1CDE9049AA9345F931BD1003AE.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第70号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第70号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-09-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/EDAC79DFD5944B9F95EDDB9A2D8A16CC.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第69号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第69号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-09-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/0CF2D32107794B76AEDBC9C19A06227B.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第68号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第68号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-09-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/A1466CFA0F9F4BE3B594CFD821DEB2C6.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第67号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第67号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-09-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/14ECAC5558124924A22AC1EF9F07F5A7.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第66号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第66号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-09-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/9707DFC198DE4819B1617AF765BBD3C4.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第65号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第65号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-09-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/CA855C5C4D51440DAFE85DF65AA1FC65.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第64号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第64号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-09-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/62F4C8DD1ACE4CC9A24C893A2A32BF0C.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第63号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第63号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-09-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/5C9395A6EE97479694EB950A6CCAFBF2.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第62号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第62号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-07-24&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/52C0373FFCE04C519E964A997D3FE962.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第61号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第61号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-07-24&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/608AD939482A44A790E41CC661F4CF0A.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第60号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第60号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-07-24&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/70B2E3DFE16142239E356C22941F25F2.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第57号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第57号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-07-24&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/68E75776D1544F2390A28FDF345A6127.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第56号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第56号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-07-24&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/BEE48CEA0DA04C22B4B8F217B35D4DA6.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第59号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第59号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-07-10&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/B747C53FAE4149FC9C085F995951C556.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第58号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第58号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-07-10&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/5B25292C37034AE697CD0297AEE84B8B.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第55号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第55号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/8419EC09C21F437DB955C2543B4694E4.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第54号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第54号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/1FDA79DF1A664C62AD52B60B92879227.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第53号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第53号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/5A44AA09DB124F2CBE598186CF4BA045.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第52号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第52号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/64EB9FFC42FD48C2A316926F33D68D96.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第51号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第51号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/6E83FD349E6F40079D38B655F5BF0D0C.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第50号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第50号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/A3C0325E0CB74912827184E509033475.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第49号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第49号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/CEA5DB6AFA6740F5AEC4D93E3BFE3EA5.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第48号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第48号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/6692C98E282942EF80E01632C277EC0D.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第47号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第47号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/7DBCEC385237430EACC0211C4DCF188F.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第46号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第46号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/8F849AA241CF4CB68675A6A214DF2FE0.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第45号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第45号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/B421483FA5454298832103CE9F378FDB.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第44号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第44号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/9AC61FB9A49A405AAEAE4FDBECFB0CEC.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第43号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第43号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/6CB9F4D57B004A2D9CC85EBF3163976A.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第42号 &quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第42号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-05-02&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/EF7EBAA854F34B6AB8B3F1720CA5ACDA.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第40号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第40号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-02-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/AE2A510B78884A889DEEAEE962197A05.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第39号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第39号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-02-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/E0C74E6553034E7893AA76DF71659193.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第38号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第38号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-02-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/61931C5F5D2144F8B9573EFFDD34586E.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第37号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第37号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-02-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td bgcolor=&quot;#f3f7f8&quot; class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q4.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/A3C559FA994D4E86B896168327FAFC45.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第36号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第36号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f3f7f8&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-02-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;cc&quot; height=&quot;32&quot;&gt;&lt;img height=&quot;22&quot; src=&quot;/img/home/second/q3.gif&quot; width=&quot;18&quot;/&gt;&lt;a class=&quot;STYLE8&quot; href=&quot;/chinese/home/docView/01783FD032A54068B70FB0E4B9D2800B.html&quot; target=&quot;_blank&quot; title=&quot;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第35号&quot;&gt;中国银监会陕西银监局机关行政处罚信息公开表 陕银监罚决字〔2018〕第35号&lt;/a&gt;&lt;/td&gt;&lt;td align=&quot;right&quot; colspan=&quot;2&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;2018-02-13&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;!-- 普通栏目遍历结束 --&gt;&lt;tr&gt;&lt;td align=&quot;right&quot; class=&quot;cc&quot; colspan=&quot;3&quot; height=&quot;32&quot;&gt;&#10;&#9;&#9;&#9;&#9;&#9;(1-35) 1/6 首页  上页  &lt;a href=&quot;60200406&amp;amp;current=2&quot; target=&quot;&quot;&gt;下页&lt;/a&gt; &lt;a href=&quot;60200406&amp;amp;current=6&quot; target=&quot;&quot;&gt;末页&lt;/a&gt; &lt;a href=&quot;#&quot;&gt;跳转到&lt;/a&gt;&lt;input maxlength=&quot;4&quot; name=&quot;page&quot; onchange=&quot;if(this.value.match(new RegExp('^[0-9]*[1-9][0-9]*$'))&amp;amp;&amp;amp;this.value&amp;lt;=6) window.open('60200406&amp;amp;current='+this.value,'_self');else alert('请输入小于6的正整数');&quot; size=&quot;4&quot; type=&quot;text&quot;/&gt;页&#10;&#9;&#9;&#9;&#9;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\PyCharm 20181.4\project\project1\K河北省" />
+      <recent name="D:\Python\PyCharm 20181.4\project\project1\K河北省\工具包" />
+      <recent name="D:\Python\PyCharm 20181.4\project\project1\G_1行政案例处理\已处理完" />
+      <recent name="D:\Python\PyCharm 20181.4\project\project1\G_1行政案例处理" />
+      <recent name="D:\Python\PyCharm 20181.4\project\project1\环保局更新" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\PyCharm 20181.4\project\project1\G_1行政案例处理\工具包" />
+      <recent name="D:\Python\PyCharm 20181.4\project\project1\G_1行政案例处理\工具包\交通运输（已处理完标题）" />
+      <recent name="D:\Python\PyCharm 20181.4\project\project1\G_1行政案例处理\工具包\行政案例" />
+      <recent name="D:\Python\PyCharm 20181.4\project\project1\I陕西省\1111" />
+      <recent name="D:\Python\PyCharm 20181.4\project\project1\G_1行政案例处理" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.附件下载程序 (1)">
+    <configuration name="附件下载程序 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识产权局更新" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识产权局更新/附件下载程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="附件下载程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/K河北省/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K河北省/工具包/附件下载程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="1、银监局" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/K河北省" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K河北省/1、银监局.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="7、河北省廊坊市（1 post）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/K河北省" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K河北省/7、河北省廊坊市（1 post）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="8.“十三五”国家环境保护标准工作" type="PythonConfigurationType" factoryName="Python">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/环保局更新" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/环保局更新/8.“十三五”国家环境保护标准工作.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="链接数据库" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识产权局更新" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识产权局更新/链接数据库.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="行政案例数据库预处理程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/行政案例数据库预处理程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="链接数据库" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/工具包/链接数据库.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="动态访问" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/I陕西省/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/I陕西省/工具包/动态访问.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="链接数据库" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/工具包/链接数据库.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="【无附件版】预处理模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/工具包/【无附件版】预处理模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="行政案例预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/行政案例预处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="行政案例预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/行政案例预处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="行政案例预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/行政案例预处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="知识产权局自动更新" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识产权局更新" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识产权局更新/知识产权局自动更新.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="行政案例预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/行政案例预处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="行政案例预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/行政案例预处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="备份——行政案例数据库预处理程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/备份——行政案例数据库预处理程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="预处理模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/工具包/预处理模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="预处理模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/工具包/预处理模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="遍历本地文件夹" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/卫计局" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/卫计局/遍历本地文件夹.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="行政案例数据库预处理程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/行政案例数据库预处理程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="知识产权局自动更新" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识产权局更新" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识产权局更新/知识产权局自动更新.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="预处理模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G辽宁省/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G辽宁省/工具包/预处理模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="知识产权局自动更新" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识产权局更新" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识产权局更新/知识产权局自动更新.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="知识产权局自动更新" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/知识产权局更新" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/知识产权局更新/知识产权局自动更新.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="行政案例预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/行政案例预处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="预处理模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/工具包/预处理模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="预处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/云南、上海预处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/云南、上海预处理/预处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="动态访问" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G辽宁省/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G辽宁省/工具包/动态访问.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="预处理模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/J湖南省/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/J湖南省/工具包/预处理模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="链接数据库" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/工具包/链接数据库.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="【无附件版】预处理模块" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\Python\PyCharm 20181.4\project\project1\G_1行政案例处理\工具包\【完整版-附件下载还有问题】预处理模块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="【】行政案例数据库预处理程序" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/G_1行政案例处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/G_1行政案例处理/【】行政案例数据库预处理程序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="get 、 post请求测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/K河北省/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K河北省/工具包/get 、 post请求测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/K河北省" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K河北省/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="判断url前面的点返回完整的请求地址 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/K河北省/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/K河北省/工具包/判断url前面的点返回完整的请求地址.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="判断url前面的点返回完整的请求地址" type="PythonConfigurationType" factoryName="Python">
+      <module name="project1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大邑县卫计局/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大邑县卫计局/工具包/判断url前面的点返回完整的请求地址.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.判断url前面的点返回完整的请求地址" />
+      <item itemvalue="Python.8.“十三五”国家环境保护标准工作" />
+      <item itemvalue="Python.get 、 post请求测试" />
+      <item itemvalue="Python.7、河北省廊坊市（1 post）" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.附件下载程序" />
+      <item itemvalue="Python.附件下载程序 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.附件下载程序 (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.附件下载程序" />
+        <item itemvalue="Python.7、河北省廊坊市（1 post）" />
+        <item itemvalue="Python.get 、 post请求测试" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cca73dbe-dbce-4f66-b932-27f521f6540b" name="Default" comment="" />
+      <created>1539075760510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539075760510</updated>
+      <workItem from="1544489883280" duration="16958000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_TEST_py - 2018.10.25 at 11h 42m 34s.xml">
+      <configuration name="py.test in TEST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TEST_py - 2018.10.25 at 11h 43m 08s.xml">
+      <configuration name="py.test in TEST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TEST_py - 2018.10.25 at 11h 46m 47s.xml">
+      <configuration name="py.test in TEST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TEST_py - 2018.10.25 at 11h 49m 52s.xml">
+      <configuration name="py.test in TEST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TEST_py - 2018.10.25 at 11h 50m 00s.xml">
+      <configuration name="py.test in TEST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TEST_py - 2018.10.25 at 11h 50m 38s.xml">
+      <configuration name="py.test in TEST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TEST_py - 2018.10.25 at 14h 25m 21s.xml">
+      <configuration name="py.test in TEST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_TEST_test - 2018.10.25 at 14h 26m 08s.xml">
+      <configuration name="py.test for TEST.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TEST_py - 2018.10.25 at 14h 26m 12s.xml">
+      <configuration name="py.test in TEST.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TEST_py - 2018.10.25 at 16h 28m 28s.xml">
+      <configuration name="py.test in TEST.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16958000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-66" y="184" width="1610" height="909" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32823366" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5021322" side_tool="true" weight="0.37136465" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32823366" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4968017" weight="0.41446453" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3277405" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21456185" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info active="true" anchor="right" id="Database" order="6" visible="true" weight="0.2783505" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.4978678" weight="0.42002782" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="SQL Generator" order="12" weight="0.43512306" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="4" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="15" sideWeight="0.4978678" visible="true" weight="0.550765" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32997763" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32997763" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="15" sideWeight="0.4978678" visible="true" weight="0.8165548" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.4968017" weight="0.35234898" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16204691" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SQL Generator" order="12" weight="0.43512306" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="4" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.18283582" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3277405" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.4978678" weight="0.37136465" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32997763" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5021322" side_tool="true" weight="0.37136465" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32997763" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32885906" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../AdministrativePenalty/处理广西行政案例数据提取关键字/预处理标题、落款、时间（可以-中文转数zi).py</url>
+          <line>264</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/G辽宁省/7国家能源局东北监管局.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/G辽宁省/12.盘锦市.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/G辽宁省/14.葫芦岛市.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/知识产权局更新/知识产权局自动更新1.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/I陕西省/1111/2.西安市-安全生产 -全是图片（post）.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/I陕西省/1111/2.西安市-安全生产 -全是图片（post）.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/K河北省/3、邮政局（post）.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/K河北省/3、邮政局（post）.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/K河北省/3、邮政局（post）.py</url>
+          <line>165</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/K河北省/工具包/预处理模块.py</url>
+          <line>219</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="157" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="tests">
+        <watch expression="5" language="Python" />
+        <watch expression="10" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>10</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>5</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>'&lt;div class=&quot;mc_content&quot;&gt;&lt;table align=&quot;center&quot; bgcolor=&quot;#C8DCF0&quot; border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;1&quot; width=&quot;100%&quot;&gt;&lt;tr&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f6fbff&quot; height=&quot;30&quot; width=&quot;20%&quot;&gt;行政处罚决定书文号：&lt;/td&gt;&lt;td bgcolor=&quot;#FFFFFF&quot; colspan=&quot;3&quot; width=&quot;80%&quot;&gt;高管局处罚决定2016D090102&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f6fbff&quot; height=&quot;30&quot; width=&quot;20%&quot;&gt;案件名称：&lt;/td&gt;&lt;td bgcolor=&quot;#FFFFFF&quot; colspan=&quot;1&quot; width=&quot;30%&quot;&gt;超限运输&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f6fbff&quot; height=&quot;30&quot; width=&quot;20%&quot;&gt;权力事项名称：&lt;/td&gt;&lt;td bgcolor=&quot;#FFFFFF&quot; colspan=&quot;1&quot; width=&quot;30%&quot;&gt;货车违规超限运输的处罚&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f6fbff&quot; height=&quot;30&quot; width=&quot;20%&quot;&gt;处罚决定日期：&lt;/td&gt;&lt;td bgcolor=&quot;#FFFFFF&quot; colspan=&quot;1&quot; width=&quot;30%&quot;&gt;2018-09-01&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f6fbff&quot; height=&quot;30&quot; width=&quot;20%&quot;&gt;处罚类别：&lt;/td&gt;&lt;td bgcolor=&quot;#FFFFFF&quot; colspan=&quot;1&quot; width=&quot;30%&quot;&gt;罚款&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f6fbff&quot; height=&quot;30&quot; width=&quot;20%&quot;&gt;处罚结果：&lt;/td&gt;&lt;td bgcolor=&quot;#FFFFFF&quot; colspan=&quot;1&quot; width=&quot;30%&quot;&gt;罚款1500元&lt;/td&gt;&lt;td align=&quot;right&quot; bgcolor=&quot;#f6fbff&quot; height=&quot;30&quot; width=&quot;20...'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>'住所：长沙市芙蓉区解放西路&lt;span&gt;41&lt;/span&gt;号太平洋大厦&lt;span&gt;11&lt;/span&gt;楼'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>'http://safety.xa.gov.cn/ptl/def/def/index_1394_8076_ci_trid_2912615.html'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>'
+&lt;div class=&quot;TRS_Editor&quot;&gt;&lt;p align=&quot;left&quot;&gt;&lt;span style=&quot;font-size: 16pt; font-family: 仿宋_GB2312;&quot;&gt;根据《承装（修、试）电力设施许可证管理办法》及《承装（修、试）电力设施许可证监督管理实施办法》的规定，承装（修、试）电力设施单位应当在许可证有效期届满三十日前提出延续申请，未按规定申请延续或者延续申请未被批准的，派出机构应当按照规定办理注销手续。对于应当注销的许可，取得许可证的单位未按照规定办理注销手续，派出机构可以通过公告注销。自公告发布之日起满三十日，视为许可被注销。&lt;span lang=&quot;EN-US&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;text-indent:32.0pt;mso-char-indent-count:2.0;
+line-height:16.5pt;mso-pagination:widow-orphan&quot;&gt;&lt;span style=&quot;font-size: 16pt; font-family: 仿宋_GB2312;&quot;&gt;东北能源监管局决定将未按规定办理延续和注销申请的承装（修、试）电力设施单位进行公告。公告期满后，许可证视为注销。&lt;span lang=&quot;EN-US&quot;&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoNormal&quot; style=&quot;text-indent:32.0pt;mso-char-indent-count:2.0;
+line-height:16.5pt;mso-pagination:widow-orphan&quot;&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 16pt; font-family: 仿宋_GB2312;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size:16.0pt;font-family:仿宋_GB2312;mso-hansi-font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt&quot;&gt; 2018&lt;/span&gt;&lt;span style=&quot;font-size:16.0...'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>3</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/环保局更新/8.“十三五”国家环境保护标准工作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15300">
+          <caret line="608" column="30" selection-start-line="608" selection-start-column="30" selection-end-line="608" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/环保局更新/7.地方环境保护标准备案.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/LawServiceOrg">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/LawAidOrganInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/LawFirmInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://bb0d9253-b048-4c53-a9aa-1e4560d165d6/database/cnlaw2.0/schema/dbo/table/知识产权-科新局">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://bb0d9253-b048-4c53-a9aa-1e4560d165d6/database/cnlaw2.0/schema/dbo/table/大邑县卫生局数据">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/LawyerInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/NotaryOrgInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/LawAitStaffInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/SystemLog">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/SysUserInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/NotaryInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/MediatorInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/MediationCommittee">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/LegislationInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3ff956ae-4b10-46b8-90dc-c4ac6c0563a0/database/GH_PublicLawSerivceDB/schema/dbo/table/ArticleManage">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/1、银监局.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/I陕西省/信用中国-陕西（全是post）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/3、邮政局（post）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="222" lean-forward="true" selection-start-line="222" selection-end-line="222" />
+          <folding>
+            <element signature="e#2118#3035#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3.6.5/Lib/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/遍历本地文件夹.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/移动文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" selection-start-line="25" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/提取信息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11075">
+          <caret line="444" column="4" selection-start-line="444" selection-start-column="4" selection-end-line="444" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1744f113-263e-4600-bd1d-353f50268d70/database/行政案例数据库/schema/dbo/table/行政案例测试表">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/环保局更新/工具包/附件下载程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/环保局更新/工具包/链接数据库.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/4、政府信息公开栏（get代替post）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/新建文本文档.txt" />
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/test1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/5、信用湖南（格式统一 post）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="89" column="31" lean-forward="true" selection-start-line="89" selection-start-column="31" selection-end-line="89" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/get 、 post请求测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://1744f113-263e-4600-bd1d-353f50268d70/database/行政案例数据库/schema/dbo/table/行政案例数据表">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/6、承德市（安监局 get）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3542">
+          <caret line="211" column="54" selection-start-line="211" selection-start-column="54" selection-end-line="211" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/词云.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/链接数据库.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53" selection-start-column="53" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/环保局更新/工具包/判断url前面的点返回完整的请求地址.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225">
+          <caret line="64" column="7" selection-start-line="64" selection-start-column="2" selection-end-line="64" selection-end-column="7" />
+          <folding>
+            <element signature="e#537#701#0" />
+            <element signature="e#781#1687#0" />
+            <element signature="e#973#1156#0" />
+            <element signature="e#1193#1687#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/环保局更新/testq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/jl.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/预处理模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="219" column="20" selection-start-line="219" selection-start-column="20" selection-end-line="219" selection-end-column="20" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+            <element signature="e#1273#2075#0" />
+            <element signature="e#2161#3035#0" />
+            <element signature="e#3290#4275#0" />
+            <element signature="e#4730#5698#0" />
+            <element signature="e#5781#6679#0" />
+            <element signature="e#6763#7697#0" />
+            <element signature="e#13355#14154#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1744f113-263e-4600-bd1d-353f50268d70/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="187" lean-forward="true" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/判断url前面的点返回完整的请求地址.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="32" column="29" selection-start-line="27" selection-start-column="25" selection-end-line="32" selection-end-column="29" />
+          <folding>
+            <element signature="e#537#701#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/工具包/附件下载程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="264" column="16" selection-start-line="264" selection-start-column="16" selection-end-line="264" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://bb0d9253-b048-4c53-a9aa-1e4560d165d6/database/cnlaw2.0/schema/dbo/table/AdministrativeCase">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/K河北省/7、河北省廊坊市（1 post）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/bb0d9253-b048-4c53-a9aa-1e4560d165d6/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="101" selection-start-line="101" selection-end-line="101" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/知识产权局更新/附件下载程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="233" selection-start-line="233" selection-start-column="2" selection-end-line="233" selection-end-column="178" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

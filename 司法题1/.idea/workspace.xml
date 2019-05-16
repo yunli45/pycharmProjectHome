@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/论述题.py" line="120" />
+    <bookmark url="file://$PROJECT_DIR$/论述题.py" line="63" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4ddf603-50fe-41de-8fd2-c7d9ff7e763d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/1$_html.coverage" NAME="司法模拟题整理(批量整理一个文件夹中的所有html文件） Coverage Results" MODIFIED="1551084513380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1$test.coverage" NAME="test Coverage Results" MODIFIED="1550646468409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1$.coverage" NAME="论述题 Coverage Results" MODIFIED="1551085618003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ll.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ll.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+              <folding>
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="e#1530#1536#0" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="e#1675#1681#0" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#4;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="e#10990#10996#0" expanded="true" />
+                <element signature="e#10996#11002#0" expanded="true" />
+                <element signature="e#11002#11008#0" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#2;n#DIV#4;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#5;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#5;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#6;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#6;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="e#20006#20012#0" expanded="true" />
+                <element signature="e#20012#20018#0" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#4;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#5;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#5;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#6;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#6;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="e#28633#28639#0" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#DIV#5;n#DIV#2;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#DIV#1;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lable</find>
+      <find>SubDesc</find>
+      <find>label_name_1</find>
+      <find>&lt;textarea name='GN_db6a0007-0529-4bd1-a169-81a479b812f5' rows='2' cols='20' style='height:200px;width:800px;'&gt;&lt;/textarea&gt;</find>
+      <find>&lt;textarea name='GN_db6a0007-0529-4bd1-a169-81a479b812f5' rows='2' cols='20' style='height:200px;width:800px;'&gt;&lt;/textarea</find>
+      <find>分值</find>
+      <find>SubType</find>
+      <find>ques_cont</find>
+      <find>Solution null</find>
+      <find>答案Answer长度</find>
+      <find>print</find>
+      <find>ques_desc</find>
+      <find>yes</find>
+      <find>que_list</find>
+      <find>题型</find>
+      <find>label_class_1</find>
+      <find>SubTypeDesc</find>
+      <find>value=1</find>
+      <find>all_qes_types</find>
+      <find>OptionsA</find>
+      <find>Answer</find>
+      <find>qes_type_descs</find>
+      <find>大题干的</find>
+      <find>len</find>
+      <find>题型_list</find>
+      <find>题型_list的长度</find>
+      <find>Qst_list</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>label</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/工具包/移动文件.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/工具包/字符串查找方法.py" />
+        <option value="$PROJECT_DIR$/工具包/读写xlsx文件.py" />
+        <option value="$PROJECT_DIR$/词云.py" />
+        <option value="$PROJECT_DIR$/词云（中文）.py" />
+        <option value="$PROJECT_DIR$/jj.html" />
+        <option value="$PROJECT_DIR$/kk.html" />
+        <option value="$PROJECT_DIR$/ll.html" />
+        <option value="$PROJECT_DIR$/司法模拟题整理(批量整理一个文件夹中的所有html文件）.py" />
+        <option value="$PROJECT_DIR$/论述题.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-59" />
+    <option name="y" value="253" />
+    <option name="width" value="1921" />
+    <option name="height" value="1081" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="司法题1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="司法题1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\PyCharm 20181.4\project\司法题1\工具包" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\PyCharm 20181.4\project\司法题1" />
+      <recent name="D:\Python\PyCharm 20181.4\project\司法题1\论述题和选择题导出模板" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.论述题">
+    <configuration name="论述题" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="司法题1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/论述题.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="词云（中文）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="司法题1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/词云（中文）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="词云" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="司法题1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/词云.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="词云" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="司法题1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/词云.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="司法模拟题整理(批量整理一个文件夹中的所有html文件）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="司法题1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/司法模拟题整理(批量整理一个文件夹中的所有html文件）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="司法题1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.论述题" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.司法模拟题整理(批量整理一个文件夹中的所有html文件）" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.论述题" />
+        <item itemvalue="Python.司法模拟题整理(批量整理一个文件夹中的所有html文件）" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4ddf603-50fe-41de-8fd2-c7d9ff7e763d" name="Default" comment="" />
+      <created>1550631488738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550631488738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1618" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36465323" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09102564" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3192964" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39932886" />
+      <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32997763" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32997763" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/论述题.py</url>
+          <line>149</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="41" column="157" selection-start-line="41" selection-start-column="157" selection-end-line="41" selection-end-column="157" />
+          <folding>
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#1530#1536#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#1675#1681#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#4;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#10990#10996#0" expanded="true" />
+            <element signature="e#10996#11002#0" expanded="true" />
+            <element signature="e#11002#11008#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#2;n#DIV#4;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#5;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#5;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#6;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#6;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#20006#20012#0" expanded="true" />
+            <element signature="e#20012#20018#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#4;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#5;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#5;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#6;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#6;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#28633#28639#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#DIV#5;n#DIV#2;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#1;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32375">
+          <caret line="1291" column="40" selection-start-line="1291" selection-start-column="29" selection-end-line="1291" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/论述题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3925">
+          <caret line="210" column="107" selection-start-line="210" selection-start-column="107" selection-end-line="210" selection-end-column="107" />
+          <folding>
+            <element signature="e#24#455#1" />
+            <element signature="e#456#465#0" expanded="true" />
+            <element signature="e#748#3335#0" />
+            <element signature="e#1765#1988#0" />
+            <element signature="e#731#14976#0" />
+            <element signature="e#1818#3143#0" />
+            <element signature="e#3194#3342#0" />
+            <element signature="e#6035#6208#0" />
+            <element signature="e#6253#6287#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/词云.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="52" column="33" lean-forward="true" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24500">
+          <caret line="980" column="72" selection-start-line="980" selection-start-column="65" selection-end-line="980" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具包/移动文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alice.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32375">
+          <caret line="1291" column="40" selection-start-line="1291" selection-start-column="29" selection-end-line="1291" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24500">
+          <caret line="980" column="72" selection-start-line="980" selection-start-column="65" selection-end-line="980" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具包/移动文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/论述题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3925">
+          <caret line="210" column="107" lean-forward="true" selection-start-line="210" selection-start-column="107" selection-end-line="210" selection-end-column="107" />
+          <folding>
+            <element signature="e#24#455#1" />
+            <element signature="e#456#465#0" expanded="true" />
+            <element signature="e#748#3335#0" />
+            <element signature="e#1765#1988#0" />
+            <element signature="e#731#14976#0" />
+            <element signature="e#1818#3143#0" />
+            <element signature="e#3194#3342#0" />
+            <element signature="e#6035#6208#0" />
+            <element signature="e#6253#6287#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32375">
+          <caret line="1291" column="40" selection-start-line="1291" selection-start-column="29" selection-end-line="1291" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具包/读写xlsx文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25525">
+          <caret line="1021" column="163" selection-start-line="1021" selection-start-column="157" selection-end-line="1021" selection-end-column="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具包/移动文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/论述题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4400">
+          <caret line="191" column="65" selection-start-line="191" selection-start-column="65" selection-end-line="191" selection-end-column="65" />
+          <folding>
+            <element signature="e#24#455#1" />
+            <element signature="e#456#465#0" expanded="true" />
+            <element signature="e#748#3335#0" />
+            <element signature="e#1765#1988#0" />
+            <element signature="e#731#14976#0" />
+            <element signature="e#1818#3143#0" />
+            <element signature="e#3194#3342#0" />
+            <element signature="e#6035#6208#0" />
+            <element signature="e#6253#6287#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3、银监局（get）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="218" column="26" selection-start-line="218" selection-start-column="21" selection-end-line="218" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3.6.5/Lib/site-packages/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具包/字符串查找方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具包/读写xlsx文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具包/移动文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32375">
+          <caret line="1291" column="40" selection-start-line="1291" selection-start-column="29" selection-end-line="1291" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Alice.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pic.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alice.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/词云（中文）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="64" column="17" lean-forward="true" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/词云.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="43" selection-start-line="43" selection-end-line="43" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3.6.5/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="1010" selection-start-line="1010" selection-end-line="1010" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="976" column="18" lean-forward="true" selection-start-line="976" selection-start-column="18" selection-end-line="976" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="41" column="58" selection-start-line="41" selection-start-column="55" selection-end-line="41" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/司法模拟题整理(批量整理一个文件夹中的所有html文件）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/论述题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="353" lean-forward="true" selection-start-line="353" selection-end-line="353" />
+          <folding>
+            <element signature="e#24#455#1" />
+            <element signature="e#456#465#0" expanded="true" />
+            <element signature="e#748#3335#0" />
+            <element signature="e#1765#1988#0" />
+            <element signature="e#731#14976#0" />
+            <element signature="e#1818#3143#0" />
+            <element signature="e#3194#3342#0" />
+            <element signature="e#6035#6208#0" />
+            <element signature="e#6253#6287#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#1530#1536#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#1675#1681#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#2;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#4;n#DIV#3;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#10990#10996#0" expanded="true" />
+            <element signature="e#10996#11002#0" expanded="true" />
+            <element signature="e#11002#11008#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#2;n#DIV#4;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#5;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#5;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#6;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#6;n#DIV#4;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#20006#20012#0" expanded="true" />
+            <element signature="e#20012#20018#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#4;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#4;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#5;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#5;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#6;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#6;n#DIV#5;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="e#28633#28639#0" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#6;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#7;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#8;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#9;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#10;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#1;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#1;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#2;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#DIV#5;n#DIV#2;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#2;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#0;n#PRE#0;n#DIV#0;n#DIV#3;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#DIV#5;n#DIV#3;n#DIV#11;n#DIV#2;n#DIV#0;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#DIV#1;n#DIV#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

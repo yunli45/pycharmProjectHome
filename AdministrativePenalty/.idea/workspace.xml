@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/内蒙古/11.银监分局_all.py" line="121" />
+    <bookmark url="file://$PROJECT_DIR$/内蒙古/16.阿荣旗 _all.py" line="117" />
+    <bookmark url="file://$PROJECT_DIR$/内蒙古/22.巴彦淖尔市_临河区_all .py" line="153" />
+    <bookmark url="file://$PROJECT_DIR$/天津市/6.质检局_all .py" line="451" />
+    <bookmark url="file://$PROJECT_DIR$/宁夏/工具包/判断全文的类型返回表中需要的字段.py" line="5" />
+    <bookmark url="file://$PROJECT_DIR$/宁夏/工具包/_30附件下载处理.py" line="71" />
+    <bookmark url="file://$PROJECT_DIR$/宁夏/工具包/_32固原市环境保护局.py" line="8" />
+    <bookmark url="file://$PROJECT_DIR$/知识产权/工具包/附件下载程序.py" line="3" />
+    <bookmark url="file://$PROJECT_DIR$/行政案例预处理/行政案例预处理程序（数据库版）.py" line="12" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca0f5da3-c1f6-4a6d-af95-8e46c23e7f87" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$28_7.coverage" NAME="28.7银川市西夏区卫生和计划生育局 Coverage Results" MODIFIED="1537326867152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/银川市西夏区(和石嘴山市一样的格式)" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2__1_.coverage" NAME="政策解读2完整版备份 (1) Coverage Results" MODIFIED="1538211582369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$28_1.coverage" NAME="28.1银川市西夏区财政局 Coverage Results" MODIFIED="1537325944746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/银川市西夏区(和石嘴山市一样的格式)" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$13__.coverage" NAME="13.发展和改革委员会_呼伦贝尔市 Coverage Results" MODIFIED="1534384352760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$6_2_.coverage" NAME="6.2标准文本_固体废物污染控制标准 Coverage Results" MODIFIED="1535963101391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$7_1.coverage" NAME="7.1核辐射与电磁辐射环境保护标准 Coverage Results" MODIFIED="1535966435899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$4_2_.coverage" NAME="4.2标准文本_环境噪声质量标准 Coverage Results" MODIFIED="1535958207689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$5_2_.coverage" NAME="5.2标准文本_土壤环境质量标准 Coverage Results" MODIFIED="1535959782880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2_all.coverage" NAME="2、工商局_all Coverage Results" MODIFIED="1536287781391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$docdocx.coverage" NAME="doc转docx Coverage Results" MODIFIED="1537497008980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$29__.coverage" NAME="29.北辰区_环保局 Coverage Results" MODIFIED="1533716753458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$3_2_.coverage" NAME="3.2标准文本_大气环境质量标准 Coverage Results" MODIFIED="1535944761226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_15_.coverage" NAME="24.15地方税务局稽查局  Coverage Results" MODIFIED="1537252640079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1533118107217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10_5_.coverage" NAME="10.5其他环境保护标准_环境标志产品标准 Coverage Results" MODIFIED="1536024721408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$20.coverage" NAME="20、中宁县市场监督管理局 Coverage Results" MODIFIED="1536565129642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$33____.coverage" NAME="33.市场和质量监督管理局 _宝坻区  Coverage Results" MODIFIED="1533877268177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1538115145667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$20__.coverage" NAME="20.所有行业_河北区 Coverage Results" MODIFIED="1533611875886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$25___.coverage" NAME="25.市场和质量监督管理局_南开区  Coverage Results" MODIFIED="1533628969183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$21___.coverage" NAME="21.巴彦淖尔市_食品药品监督管理局  Coverage Results" MODIFIED="1534498083756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_3.coverage" NAME="24.3城市规划局 Coverage Results" MODIFIED="1537240953606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test.coverage" NAME="test Coverage Results" MODIFIED="1537522710032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$32_.coverage" NAME="32.固原市环保局 Coverage Results" MODIFIED="1537504595465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10__.coverage" NAME="10.地方税务局_包头市 Coverage Results" MODIFIED="1534219334982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$11.coverage" NAME="11污染防治技术政策 Coverage Results" MODIFIED="1536029063897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$5__.coverage" NAME="5.天津市邮政管理局_所有区县 Coverage Results" MODIFIED="1533185558700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$7_2_.coverage" NAME="7.2核辐射与电磁辐射_电磁辐射标准 Coverage Results" MODIFIED="1535966670089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_8.coverage" NAME="24.8国土资源局 Coverage Results" MODIFIED="1537242561441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$6_2__all_.coverage" NAME="6.2.质检局_all  Coverage Results" MODIFIED="1536196813650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_2.coverage" NAME="24.2环境保护局 Coverage Results" MODIFIED="1537240842225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$doc_x_.coverage" NAME="读取doc(x)文件 Coverage Results" MODIFIED="1537447816448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_16_.coverage" NAME="24.16石嘴山市地方税务局直属征收管理局  Coverage Results" MODIFIED="1537252758296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$_24.coverage" NAME="_24左右结构的表格 Coverage Results" MODIFIED="1537255558841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$25_.coverage" NAME="25.宁夏吴忠邮政管理局 Coverage Results" MODIFIED="1537259475550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$31_.coverage" NAME="31.银川市金凤区 Coverage Results" MODIFIED="1537499451150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$22___all_.coverage" NAME="22.巴彦淖尔市_临河区_all  Coverage Results" MODIFIED="1534845810168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$6_1_.coverage" NAME="6.1标准文本_固体废物与化学环境污染控制标准 Coverage Results" MODIFIED="1535962300700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10_6_.coverage" NAME="10.6其他环境保护标准_环保产品技术要求 Coverage Results" MODIFIED="1536024892336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$5_1_.coverage" NAME="5.1标准文本_土壤环境保护标准 Coverage Results" MODIFIED="1535959286599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$8__.coverage" NAME="8、 银川市市场监督管理局西夏分局  Coverage Results" MODIFIED="1536550077877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2_2_.coverage" NAME="2.2标准文本_水环境质量标准 Coverage Results" MODIFIED="1535897383177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$12___all.coverage" NAME="12.海事局 _all Coverage Results" MODIFIED="1534126859985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_5_.coverage" NAME="24.5文化新闻出版广电局  Coverage Results" MODIFIED="1537242004336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1536137925997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$_23.coverage" NAME="_23用全文没有表格 Coverage Results" MODIFIED="1537165992391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$18.coverage" NAME="18、西吉县市场监督管理局 Coverage Results" MODIFIED="1536564775338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$12.coverage" NAME="12、石嘴山市市场监督管理局惠农分局 Coverage Results" MODIFIED="1536552004313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$15.coverage" NAME="15、利通区市场监督管理局 Coverage Results" MODIFIED="1536562753992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$21.coverage" NAME="21、海原县市场监督管理局 Coverage Results" MODIFIED="1536565346255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$6__.coverage" NAME="6.质检局_所有区县 Coverage Results" MODIFIED="1533448916192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$.coverage" NAME="测试网页返回的编码格式 Coverage Results" MODIFIED="1539075265973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10_7_.coverage" NAME="10.7其他环境保护标准_环境保护工程技术规范 Coverage Results" MODIFIED="1536027554613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_4.coverage" NAME="24.4审计局 Coverage Results" MODIFIED="1537241113559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$22__all_.coverage" NAME="22.临河区_all  Coverage Results" MODIFIED="1534836744721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_9_.coverage" NAME="24.9安全生产监督管理局  Coverage Results" MODIFIED="1537242783712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$27__.coverage" NAME="27.中卫市数据  Coverage Results" MODIFIED="1537324385983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$6_3__.coverage" NAME="6.3标准文本_ 危险废物鉴别方法标准 Coverage Results" MODIFIED="1535963467267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$34____.coverage" NAME="34.市场和质量监督管理局 _静海区  Coverage Results" MODIFIED="1533881837836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$14___.coverage" NAME="14.城市管理局_天津港保税区空港经济区  Coverage Results" MODIFIED="1533467478045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$30____.coverage" NAME="30.市场和质量监督管理局 _北辰区  Coverage Results" MODIFIED="1533780133652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10__1_.coverage" NAME="10、石嘴山市市场监督管理局 (1) Coverage Results" MODIFIED="1536551731564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$1__.coverage" NAME="1.内蒙古_银监会 Coverage Results" MODIFIED="1534147278342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_1.coverage" NAME="24.1财政局 Coverage Results" MODIFIED="1537240818230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$28__.coverage" NAME="28.环保局_红桥区 Coverage Results" MODIFIED="1533697329484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$7_3_.coverage" NAME="7.3核辐射与电磁辐射_放射性环境标准 Coverage Results" MODIFIED="1535967063571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10_1_.coverage" NAME="10.1 其他环境保护标准 Coverage Results" MODIFIED="1535969146090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2__2_.coverage" NAME="政策解读2完整版备份 (2) Coverage Results" MODIFIED="1538212593055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/test" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$__.coverage" NAME="中华人民共和国国家卫生健康委员会-热点栏目-解读 Coverage Results" MODIFIED="1539071166883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$18___.coverage" NAME="18.市场和质量监督管理局 _和平区 Coverage Results" MODIFIED="1533603685725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$7__all.coverage" NAME="7水利厅 _all Coverage Results" MODIFIED="1534148550301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_14_.coverage" NAME="24.14道路运输管理局  Coverage Results" MODIFIED="1537252451968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$17___.coverage" NAME="17.市场和质量监督管理局 _滨海新区 Coverage Results" MODIFIED="1533523727278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$4_3_.coverage" NAME="4.3标准文本_环境噪声排放标准 Coverage Results" MODIFIED="1535958544748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$16___.coverage" NAME="16.市场和质量监督管理局 _滨海新区 Coverage Results" MODIFIED="1533478382071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$3_3_.coverage" NAME="3.3标准文本_大气固定源污染物排放标准 Coverage Results" MODIFIED="1535946959167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1533538221117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$py_test_for_test2_test1.coverage" NAME="py.test for test2.test1 Coverage Results" MODIFIED="1535538136715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$17_.coverage" NAME="17.旅游局 Coverage Results" MODIFIED="1533538161268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$28_6_.coverage" NAME="28.6银川市西夏北区地方税务局  Coverage Results" MODIFIED="1537326660972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/银川市西夏区(和石嘴山市一样的格式)" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$15___.coverage" NAME="15.（证券监督管理局_所有区县  Coverage Results" MODIFIED="1533477663960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2_3_.coverage" NAME="2.3标准文本_水污染物排放标准 Coverage Results" MODIFIED="1535940222929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$3__.coverage" NAME="3.滨海新区_银监分局 Coverage Results" MODIFIED="1533111381519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2_3.coverage" NAME="2.银监局3 Coverage Results" MODIFIED="1533111018058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10_4_.coverage" NAME="10.4其他环境保护标准_环保验收技术规范 Coverage Results" MODIFIED="1536024284580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10.coverage" NAME="10、石嘴山市市场监督管理局 Coverage Results" MODIFIED="1536550677453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$15___all.coverage" NAME="15.阿荣旗 _all Coverage Results" MODIFIED="1534472794932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$23_____.coverage" NAME="23.赤峰市 _地方税务局_  Coverage Results" MODIFIED="1534846305230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$py_test_in_test_py.coverage" NAME="py.test in test.py Coverage Results" MODIFIED="1535538125475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_11_.coverage" NAME="24.11卫生和计划生育局  Coverage Results" MODIFIED="1537243275360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$1.coverage" NAME="政策解读1完整版备份 Coverage Results" MODIFIED="1538105368671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$_all.coverage" NAME="银监会新疆监管局_all Coverage Results" MODIFIED="1535538515403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$28_3_.coverage" NAME="28.3银川市西夏区人力资源和社会保障局  Coverage Results" MODIFIED="1537326221371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/银川市西夏区(和石嘴山市一样的格式)" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$_32.coverage" NAME="_32固原市环境保护局 Coverage Results" MODIFIED="1537502430892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$6.coverage" NAME="6、银川市市场监督管理局兴庆一分局 Coverage Results" MODIFIED="1536543408519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1539068387522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$11___all.coverage" NAME="1、1(进化)银监会新疆监管局_all Coverage Results" MODIFIED="1536286652393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10_9_.coverage" NAME="10.9其他环境保护标准_其他 Coverage Results" MODIFIED="1536027709048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$28_4.coverage" NAME="28.4安全生产监督局 Coverage Results" MODIFIED="1537326325775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/银川市西夏区(和石嘴山市一样的格式)" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$6_4__.coverage" NAME="6.4标准文本_ 其他相关标准 Coverage Results" MODIFIED="1535965396946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$xlsxlsx.coverage" NAME="xls转xlsx格式 Coverage Results" MODIFIED="1537342530680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/处理广西行政案例数据提取关键字" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2_2.coverage" NAME="2.银监局2 Coverage Results" MODIFIED="1533094184274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$8191023.coverage" NAME="表格加全文的形式8行19格10行23格 Coverage Results" MODIFIED="1536548005703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$4.coverage" NAME="4、宁夏宁东能源化工基地工商行政管理局 Coverage Results" MODIFIED="1536291135387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test6_1.coverage" NAME="test6.1 Coverage Results" MODIFIED="1533200714016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$35____.coverage" NAME="35.市场和质量监督管理局 _宁河区  Coverage Results" MODIFIED="1533894651281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test8.coverage" NAME="test8 Coverage Results" MODIFIED="1533550555336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$23.coverage" NAME="23、宁夏环境保护局 Coverage Results" MODIFIED="1537150670758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$14.coverage" NAME="14、吴忠市市场监督管理局 Coverage Results" MODIFIED="1536562540227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$19.coverage" NAME="19、彭阳县市场监督管理局 Coverage Results" MODIFIED="1536564993698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_6.coverage" NAME="24.6农牧局 Coverage Results" MODIFIED="1537242152050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$31____.coverage" NAME="31.市场和质量监督管理局 _武清区  Coverage Results" MODIFIED="1533868457646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_12_.coverage" NAME="24.12住房和城乡建设局  Coverage Results" MODIFIED="1537243659589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1538296152298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$18__.coverage" NAME="18.地方税务局_呼伦贝尔市 Coverage Results" MODIFIED="1534489388526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$3_5_.coverage" NAME="3.5标准文本_大气相关标准 Coverage Results" MODIFIED="1535952777938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$9.coverage" NAME="9、贺兰县市场监督管理局 Coverage Results" MODIFIED="1536550161043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2_1.coverage" NAME="2.银监局1 Coverage Results" MODIFIED="1533022986746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$7_5_.coverage" NAME="7.5核辐射与电磁辐射_相关标准 Coverage Results" MODIFIED="1535967457134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$11__all.coverage" NAME="11.银监分局_all Coverage Results" MODIFIED="1535532552239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$_30.coverage" NAME="_30附件下载处理 Coverage Results" MODIFIED="1537432728049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$13.coverage" NAME="13、平罗县市场监督管理局 Coverage Results" MODIFIED="1536552534322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$python3.coverage" NAME="python3发送邮件 Coverage Results" MODIFIED="1538292555368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$6_1__all_.coverage" NAME="6.1.质检局_all  Coverage Results" MODIFIED="1536119826206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$17__.coverage" NAME="17.呼伦贝尔市_市场监督管理局 Coverage Results" MODIFIED="1534477541571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$28_8_.coverage" NAME="28.8银川市西夏区兴泾镇人民政府  Coverage Results" MODIFIED="1537326994620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/银川市西夏区(和石嘴山市一样的格式)" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test6_2.coverage" NAME="test6.2 Coverage Results" MODIFIED="1533375878121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_13_.coverage" NAME="24.13市场监督管理局  Coverage Results" MODIFIED="1537243747311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$_.coverage" NAME="备份-行政案例预处理程序（数据库版） Coverage Results" MODIFIED="1539058207022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/行政案例预处理" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test9.coverage" NAME="test9 Coverage Results" MODIFIED="1536221482829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$7__.coverage" NAME="7、 银川市市场监督管理局兴庆二分局  Coverage Results" MODIFIED="1536549694821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$28_5.coverage" NAME="28.5西夏公安分局 Coverage Results" MODIFIED="1537326414236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/银川市西夏区(和石嘴山市一样的格式)" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10_2__.coverage" NAME="10.2 其他环境保护标准_清洁生产标准 Coverage Results" MODIFIED="1535969577861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24.coverage" NAME="24、财政局 Coverage Results" MODIFIED="1537240394147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$knntest.coverage" NAME="knntest Coverage Results" MODIFIED="1538060240523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/代理池" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$tessss.coverage" NAME="tessss Coverage Results" MODIFIED="1537264693851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test3__1_.coverage" NAME="test3 (1) Coverage Results" MODIFIED="1538039649445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$3_4_.coverage" NAME="3.4标准文本_大气移动源污染物排放标准 Coverage Results" MODIFIED="1535947972723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$7_4_.coverage" NAME="7.4核辐射与电磁辐射_相关检测方法标准 Coverage Results" MODIFIED="1535967310921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1535263820474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/处理广西行政案例数据提取关键字" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$3_all.coverage" NAME="3、银川高新技术开发区工商局_all Coverage Results" MODIFIED="1536290973023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1537928649023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$_25.coverage" NAME="_25全文内容在表格中但是内容正常显示 Coverage Results" MODIFIED="1537255940435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2_4_.coverage" NAME="2.4标准文本_相关标准 Coverage Results" MODIFIED="1535941534188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_7.coverage" NAME="24.7交通运输局 Coverage Results" MODIFIED="1537242262817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$4___.coverage" NAME="4.津南区 _市场监督管理局 Coverage Results" MODIFIED="1535593157821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$30_.coverage" NAME="30.固原市隆德县人民政府 Coverage Results" MODIFIED="1537434843686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$29_.coverage" NAME="29.中卫市沙坡区人民政府 Coverage Results" MODIFIED="1537340957253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$8_.coverage" NAME="8海关_所有区县 Coverage Results" MODIFIED="1533459507316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$_zi_.coverage" NAME="预处理标题、落款、时间（可以-中文转数zi) Coverage Results" MODIFIED="1535699842111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/处理广西行政案例数据提取关键字" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2_1_.coverage" NAME="2.1标准文本_水环境保护标准 Coverage Results" MODIFIED="1535898488430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$4_1_.coverage" NAME="4.1标准文本_环境噪声与振动标准 Coverage Results" MODIFIED="1535957798640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$5.coverage" NAME="5、银川市市场监督管理局 Coverage Results" MODIFIED="1536315760875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$3_1_.coverage" NAME="3.1标准文本_大气环境保护标准 Coverage Results" MODIFIED="1535943819225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24__.coverage" NAME="24.市场和质量监督管理局_河东区 Coverage Results" MODIFIED="1533627643107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$_22.coverage" NAME="_22行政处罚信息公示表 Coverage Results" MODIFIED="1537167240372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/工具包" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24____1_.coverage" NAME="24.市场和质量监督管理局_河东区 (1) Coverage Results" MODIFIED="1533628137549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10_8_.coverage" NAME="10.8其他环境保护标准_环境保护信息标准 Coverage Results" MODIFIED="1536026282987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$10_3_.coverage" NAME="10.3其他环境保护标准_环境影响评价技术导则 Coverage Results" MODIFIED="1536024078554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$2.coverage" NAME="政策解读2完整版备份 Coverage Results" MODIFIED="1538211500713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$9_1.coverage" NAME="9.1环境影响评价标准 Coverage Results" MODIFIED="1535968189242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$KNN.coverage" NAME="KNN Coverage Results" MODIFIED="1538146726836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/代理池" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$24_10.coverage" NAME="24.10园林和生态建设管理局 Coverage Results" MODIFIED="1537243038045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/石嘴山市数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$7_1__all.coverage" NAME="7.1.质检局_all Coverage Results" MODIFIED="1535705183064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$tewst.coverage" NAME="tewst Coverage Results" MODIFIED="1539069926415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/大邑县卫计局" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$18____.coverage" NAME="18.市场和质量监督管理局 --和平区 Coverage Results" MODIFIED="1533544718184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$16.coverage" NAME="16、同心县市场监督管理局 Coverage Results" MODIFIED="1536563802688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$22.coverage" NAME="22、保监会宁夏监管局 Coverage Results" MODIFIED="1537180254319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$12__.coverage" NAME="12.食品药品监督管理局_包头 Coverage Results" MODIFIED="1534316964097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$22__.coverage" NAME="22.市场和质量监督管理局_河北区 Coverage Results" MODIFIED="1533627091109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/天津市" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$28_2.coverage" NAME="28.2西夏区城市管理综合执法局 Coverage Results" MODIFIED="1537326068373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宁夏/银川市西夏区(和石嘴山市一样的格式)" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$8_1.coverage" NAME="8.1生态环境保护标准 Coverage Results" MODIFIED="1535967929938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8.31童哥需要的数据" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1537522680738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$9___.coverage" NAME="9.住房保障和房屋管理局 _包头市 Coverage Results" MODIFIED="1534237992308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1538291662688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/知识产权" />
+    <SUITE FILE_PATH="coverage/AdministrativePenalty$8___.coverage" NAME="8.网上公安局 _包头市 Coverage Results" MODIFIED="1534154101234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/内蒙古" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="9.1EnvironmentData@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cnlaw2.0@192.168.31.124" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cnlaw2.0@192.168.31.124" type="feb32156:DbDataSourceImpl" />
+        <item name="cnlaw2.0: database" type="bdf80c8a:MssqlImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="cnlaw2.0@192.168.31.124" type="feb32156:DbDataSourceImpl" />
+        <item name="cnlaw2.0: database" type="bdf80c8a:MssqlImplModel$Database" />
+        <item name="dbo: schema" type="3adcb6a6:MssqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="卫计局@127.0.0.1" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="cd5630e4-8b2b-4a94-9ff6-303a7c4dc3d9" />
+    </checked>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AdministrativePenalty" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="知识产权局自动更新.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/知识产权/知识产权局自动更新.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10071">
+              <caret line="379" column="4" selection-start-line="379" selection-start-column="4" selection-end-line="379" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="中华人民共和国国家卫生健康委员会-热点栏目-解读.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/大邑县卫计局/中华人民共和国国家卫生健康委员会-热点栏目-解读.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="34" column="43" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="测试网页返回的编码格式.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/大邑县卫计局/工具包/测试网页返回的编码格式.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="大邑县卫生局数据" pinned="false" current-in-tab="false">
+        <entry file="das://676a2301-ba52-4c93-8e5c-bfa921aab16f/database/卫计局/schema/dbo/table/大邑县卫生局数据">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console_1.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/676a2301-ba52-4c93-8e5c-bfa921aab16f/console_1.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="知识产权局更新记录表" pinned="false" current-in-tab="true">
+        <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/知识产权局更新记录表">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>reJpg</find>
+      <find>parePage</find>
+      <find>1131807</find>
+      <find>政策解读上一次抓取的最后的最大唯一标志ID</find>
+      <find>政策解读本次抓取后的最大唯一标志ID1</find>
+      <find>进一步完善知识产权审查和注册机制—解读《国务院关于新形势下加快知识产权强国建设的若干意见》（七）</find>
+      <find>最高法详解侵犯专利权</find>
+      <find>审查指南修改公报第1号常见问题解答</find>
+      <find>雷雨</find>
+      <find>注意这里是比较下载的时候，因为会读取政策解读和知识产权工作全部网页的src耗时比较久，请耐心等.........</find>
+      <find>get</find>
+      <find>readTable</find>
+      <find>readTableRecord</find>
+      <find>政策解读上一次抓取的第一条的标题的唯一标志ID</find>
+      <find>政策解读上一次抓取的第一条的标题</find>
+      <find>政策解读本次抓取的第一条的标题</find>
+      <find>本次整个抓取后的最大唯一标志</find>
+      <find>知识产权工作本次抓取的第一条的标题的唯一标志ID</find>
+      <find>政策解读本次抓取的第一条的标题的唯一标志ID</find>
+      <find>上一次整个抓取后的最大唯一标识</find>
+      <find>政策解读本次整个抓取后的最大唯一标识</find>
+      <find>待处理全文</find>
+      <find>str1</find>
+      <find>try</find>
+      <find>处理标题</find>
+      <find>re</find>
+      <find>AttributeError: 'str' object has no attribute 'findall'</find>
+      <find>ZCJD</find>
+      <find>datetime</find>
+      <find>headers</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>baseUrl</replace>
+      <replace />
+      <replace>time2</replace>
+      <replace>time1</replace>
+      <replace>每道题的所有选项、答案、分值与解析</replace>
+      <replace>SavePath</replace>
+      <replace>MS_Description2</replace>
+      <replace>print(</replace>
+      <replace>self.compilePageTable</replace>
+      <replace>adjunctName</replace>
+      <replace>DownLoadUrl</replace>
+      <replace>ZSCQGZ</replace>
+      <replace>处理中的全文</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Python\PyCharm\project\AdministrativePenalty\宁夏</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/宁夏/test3.py" />
+        <option value="$PROJECT_DIR$/宁夏/工具包/替换标签.py" />
+        <option value="$PROJECT_DIR$/宁夏/工具包/_32固原市环境保护局.py" />
+        <option value="$PROJECT_DIR$/宁夏/32.固原市环保局.py" />
+        <option value="$PROJECT_DIR$/知识产权/test.py" />
+        <option value="$PROJECT_DIR$/知识产权/test1.py" />
+        <option value="$PROJECT_DIR$/知识产权/附件下载程序.py" />
+        <option value="$PROJECT_DIR$/天津市/4.津南区 _市场监督管理局.py" />
+        <option value="$PROJECT_DIR$/知识产权/工具包/python3发送邮件.py" />
+        <option value="$PROJECT_DIR$/知识产权/政策解读.py" />
+        <option value="$PROJECT_DIR$/知识产权/工具包/链接数据库.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/console.sql" />
+        <option value="$PROJECT_DIR$/代理池/KK.py" />
+        <option value="$PROJECT_DIR$/知识产权/test3.py" />
+        <option value="$PROJECT_DIR$/代理池/knntest.py" />
+        <option value="$PROJECT_DIR$/代理池/1.py" />
+        <option value="$PROJECT_DIR$/知识产权/政策解读1.py" />
+        <option value="$PROJECT_DIR$/知识产权/test5.py" />
+        <option value="$PROJECT_DIR$/知识产权/政策解读1完整版备份.py" />
+        <option value="$PROJECT_DIR$/知识产权/工具包/附件下载程序.py" />
+        <option value="$PROJECT_DIR$/代理池/KNN.py" />
+        <option value="$PROJECT_DIR$/知识产权/记录.txt" />
+        <option value="F:/政策解读2完整版备份.py" />
+        <option value="F:/test/政策解读2完整版备份.py" />
+        <option value="$PROJECT_DIR$/知识产权/工具包/知识产权局自动更新.py" />
+        <option value="$PROJECT_DIR$/知识产权/政策解读2完整版备份.py" />
+        <option value="$PROJECT_DIR$/知识产权/test4.py" />
+        <option value="$PROJECT_DIR$/知识产权/test6.py" />
+        <option value="$PROJECT_DIR$/知识产权/test2.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/console_1.sql" />
+        <option value="$PROJECT_DIR$/处理广西行政案例数据提取关键字/odbc6.py" />
+        <option value="$PROJECT_DIR$/行政案例预处理/预处理标题、落款、时间（可以-中文转数zi).py" />
+        <option value="$PROJECT_DIR$/行政案例预处理/行政案例预处理程序员（数据版）.py" />
+        <option value="$PROJECT_DIR$/行政案例预处理/行政案例预处理程序员（数据库版）.py" />
+        <option value="$PROJECT_DIR$/行政案例预处理/行政案例数处理时间记录.txt" />
+        <option value="$PROJECT_DIR$/政策法规解读、环境保护部数据自动更新/政策解读.py" />
+        <option value="$PROJECT_DIR$/政策法规解读、环境保护部数据自动更新/代理和浏览器头反反爬虫.py" />
+        <option value="$PROJECT_DIR$/中华人民共和国生态部政策法规解读、环境保护部数据自动更新/代理和浏览器头反反爬虫.py" />
+        <option value="$PROJECT_DIR$/中华人民共和国生态部政策法规解读、环境保护部数据自动更新/生态部_政策法规解读.py" />
+        <option value="$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新/生态部_政策法规解读.py" />
+        <option value="$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新/生态部_标准发布.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/console_2.sql" />
+        <option value="$PROJECT_DIR$/行政案例预处理/备份-行政案例预处理程序（数据库版）.py" />
+        <option value="$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新/工具包/预处理模块.py" />
+        <option value="$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新/TEST.py" />
+        <option value="$PROJECT_DIR$/大邑县卫计局/tewst.py" />
+        <option value="$PROJECT_DIR$/知识产权/知识产权局自动更新.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/676a2301-ba52-4c93-8e5c-bfa921aab16f/console_1.sql" />
+        <option value="$PROJECT_DIR$/大邑县卫计局/中华人民共和国国家卫生健康委员会-热点栏目-解读.py" />
+        <option value="$PROJECT_DIR$/大邑县卫计局/工具包/测试网页返回的编码格式.py" />
+        <option value="$PROJECT_DIR$/行政案例预处理/行政案例预处理程序（数据库版）.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-46" />
+    <option name="y" value="319" />
+    <option name="width" value="1936" />
+    <option name="height" value="993" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AdministrativePenalty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdministrativePenalty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdministrativePenalty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdministrativePenalty" type="462c0819:PsiDirectoryNode" />
+              <item name="大邑县卫计局" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdministrativePenalty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdministrativePenalty" type="462c0819:PsiDirectoryNode" />
+              <item name="大邑县卫计局" type="462c0819:PsiDirectoryNode" />
+              <item name="工具包" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdministrativePenalty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdministrativePenalty" type="462c0819:PsiDirectoryNode" />
+              <item name="知识产权" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AdministrativePenalty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AdministrativePenalty" type="462c0819:PsiDirectoryNode" />
+              <item name="行政案例预处理" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="set background&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="SQL Server (Microsoft)" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python\PyCharm\project\AdministrativePenalty\大邑县卫计局" />
+      <recent name="E:\Python\PyCharm\project\AdministrativePenalty\行政案例预处理" />
+      <recent name="E:\Python\PyCharm\project\AdministrativePenalty\政策法规解读、环境保护部数据自动更新" />
+      <recent name="E:\Python\PyCharm\project\AdministrativePenalty" />
+      <recent name="E:\Python\PyCharm\project\AdministrativePenalty\行政案例预处理\工具包" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python\PyCharm\project\AdministrativePenalty\知识产权\工具包" />
+      <recent name="E:\Python\PyCharm\project\AdministrativePenalty\宁夏\2-21" />
+      <recent name="E:\Python\PyCharm\project\AdministrativePenalty\宁夏\工具包" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.测试网页返回的编码格式">
+    <configuration name="中华人民共和国国家卫生健康委员会-热点栏目-解读" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdministrativePenalty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大邑县卫计局" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大邑县卫计局/中华人民共和国国家卫生健康委员会-热点栏目-解读.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="备份-行政案例预处理程序（数据库版）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdministrativePenalty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/行政案例预处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/行政案例预处理/备份-行政案例预处理程序（数据库版）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="测试网页返回的编码格式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdministrativePenalty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大邑县卫计局/工具包" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大邑县卫计局/工具包/测试网页返回的编码格式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="3.1标准文本_大气环境保护标准" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdministrativePenalty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8.31童哥需要的数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.31童哥需要的数据/3.1标准文本_大气环境保护标准.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="3.2标准文本_大气环境质量标准" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdministrativePenalty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8.31童哥需要的数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.31童哥需要的数据/3.2标准文本_大气环境质量标准.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TEST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdministrativePenalty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新/TEST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="行政案例预处理程序员（数据版）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdministrativePenalty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/行政案例预处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Python\PyCharm\project\AdministrativePenalty\行政案例预处理\行政案例预处理程序（数据库版）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="发送邮件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdministrativePenalty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/发送邮件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tewst" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AdministrativePenalty" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/大邑县卫计局" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/大邑县卫计局/tewst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TEST" />
+      <item itemvalue="Python.备份-行政案例预处理程序（数据库版）" />
+      <item itemvalue="Python.tewst" />
+      <item itemvalue="Python.中华人民共和国国家卫生健康委员会-热点栏目-解读" />
+      <item itemvalue="Python.测试网页返回的编码格式" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.测试网页返回的编码格式" />
+        <item itemvalue="Python.中华人民共和国国家卫生健康委员会-热点栏目-解读" />
+        <item itemvalue="Python.tewst" />
+        <item itemvalue="Python.TEST" />
+        <item itemvalue="Python.备份-行政案例预处理程序（数据库版）" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca0f5da3-c1f6-4a6d-af95-8e46c23e7f87" name="Default" comment="" />
+      <created>1532916618288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532916618288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_test_py - 2018.08.29 at 18h 20m 33s.xml">
+      <configuration name="py.test in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_py - 2018.08.29 at 18h 20m 39s.xml">
+      <configuration name="py.test in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_py - 2018.08.29 at 18h 20m 57s.xml">
+      <configuration name="py.test in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_py - 2018.08.29 at 18h 21m 04s.xml">
+      <configuration name="py.test in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_py - 2018.08.29 at 18h 21m 17s.xml">
+      <configuration name="py.test in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_py - 2018.08.29 at 18h 21m 41s.xml">
+      <configuration name="py.test in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_py - 2018.08.29 at 18h 22m 06s.xml">
+      <configuration name="py.test in test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test2_test1 - 2018.08.29 at 18h 22m 17s.xml">
+      <configuration name="py.test for test2.test1" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.13859275" side_tool="true" weight="0.65444446" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8614072" weight="0.42" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.7969083" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" />
+      <window_info anchor="bottom" id="Database Console" order="7" sideWeight="0.8614072" weight="0.19111112" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49666667" visible="true" weight="0.1380597" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.22441365" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info id="Structure" order="1" sideWeight="0.50333333" side_tool="true" weight="0.23187633" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018797" side_tool="true" weight="0.17324094" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="SQL Generator" order="8" weight="0.3288889" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Database Console" order="7" sideWeight="0.8022388" weight="0.29777777" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49666667" visible="true" weight="0.271855" />
+      <window_info id="Structure" order="1" sideWeight="0.50333333" side_tool="true" weight="0.23187633" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8720682" visible="true" weight="0.37777779" />
+      <window_info anchor="bottom" id="SQL Generator" order="14" weight="0.3288889" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.7969083" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.12793177" side_tool="true" weight="0.48555556" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="top" id="Database" order="0" visible="true" weight="0.14123006" />
+      <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="15" />
+      <window_info id="Favorites" order="2" sideWeight="0.5018797" side_tool="true" weight="0.17324094" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/知识产权/工具包/链接数据库.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="79" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/AdministrativeCase-备份">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="%%physloc%%" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/处理广西行政案例数据提取关键字/odbc6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2079">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行政案例预处理/行政案例数处理时间记录.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://54b5ded3-2abb-4ede-8521-0c32fffc207a/database/AdministrativePun/schema/dbo/table/crawlData15">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/知识产权/工具包/附件下载程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新/政策解读.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d2a876f8-3f23-434b-bca2-8cb7fb4b7f79/database/9.1EnvironmentData/schema/dbo/table/environmentalStandardManagement">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d2a876f8-3f23-434b-bca2-8cb7fb4b7f79/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.31童哥需要的数据/2.3标准文本_水污染物排放标准.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="144" column="89" selection-start-line="144" selection-start-column="38" selection-end-line="144" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.31童哥需要的数据/2.1标准文本_水污物排放标准.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="266" column="26" lean-forward="true" selection-start-line="266" selection-start-column="26" selection-end-line="266" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.31童哥需要的数据/2.2标准文本_水环境质量标准.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1863" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.31童哥需要的数据/4标准征求意见.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="262" column="51" selection-start-line="262" selection-start-column="10" selection-end-line="262" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新/代理和浏览器头反反爬虫.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d2a876f8-3f23-434b-bca2-8cb7fb4b7f79/database/9.1EnvironmentData/schema/dbo/table/environmentalStandardsTextForAtmosphericStationarySourcePFBZ">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8.31童哥需要的数据/第一个网址（政策法规解读）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="35" column="80" selection-start-line="35" selection-start-column="68" selection-end-line="35" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/知识产权-科新局-备份">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="%%physloc%%" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cd5630e4-8b2b-4a94-9ff6-303a7c4dc3d9/database/AdministrativePunNingXia/schema/dbo/table/crawlData13">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cd5630e4-8b2b-4a94-9ff6-303a7c4dc3d9/database/AdministrativePunNingXia/schema/dbo/table/crawlData21">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/宁夏/32.固原市环保局.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2567">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://cd5630e4-8b2b-4a94-9ff6-303a7c4dc3d9/database/AdministrativePunNingXia/schema/dbo/table/crawlData26">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/Table_1" />
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/Tab_UserInfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/data">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/Sheet1$" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="67" column="108" lean-forward="true" selection-start-line="67" selection-start-column="108" selection-end-line="67" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/中华人民共和国环境生态部-备份1" />
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/中华人民共和国环境生态部.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="1" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/中华人民共和国环境生态部数据更新记录表$" />
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/中华人民共和国环境生态部数据更新记录表-备份">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="%%physloc%%" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/中华人民共和国环境生态部数据更新记录表">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/中华人民共和国环境生态部-备份">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="%%physloc%%" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/中华人民共和国环境生态部">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行政案例预处理/预处理标题、落款、时间（可以-中文转数zi).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行政案例预处理/备份-行政案例预处理程序（数据库版）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新/TEST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/AdministrativeCase">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大邑县卫计局/tewst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/知识产权/test3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新/工具包/预处理模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/中华人民共和国生态部政策法规解读_环境保护部数据自动更新/生态部_标准发布.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="56" column="40" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/知识产权-科新局">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="111" selection-start-line="111" selection-end-line="111" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/676a2301-ba52-4c93-8e5c-bfa921aab16f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/知识产权/知识产权局自动更新.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10071">
+          <caret line="379" column="4" selection-start-line="379" selection-start-column="4" selection-end-line="379" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../python3.6.5/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-121">
+          <caret line="67" column="29" lean-forward="true" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大邑县卫计局/中华人民共和国国家卫生健康委员会-热点栏目-解读.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://676a2301-ba52-4c93-8e5c-bfa921aab16f/database/卫计局/schema/dbo/table/大邑县卫生局数据">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/行政案例预处理/行政案例预处理程序（数据库版）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-906">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+          <folding>
+            <element signature="e#7137#9323#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/大邑县卫计局/工具包/测试网页返回的编码格式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/676a2301-ba52-4c93-8e5c-bfa921aab16f/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://34cc671f-84b7-4ab0-8b75-f1be3dcf5b52/database/cnlaw2.0/schema/dbo/table/知识产权局更新记录表">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
